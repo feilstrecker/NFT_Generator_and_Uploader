@@ -19,27 +19,41 @@ class NFT_generator():
 
         # Itens list
         self.backgrounds = []
-        self.bodys = []
-        self.acessorys = []
+        self.bodies = []
+        self.acessories = []
         self.hats = []
 
         # For generate nfts without accessory and hat
-        self.acessorys.append(Image.open('none.png'))
+        self.acessories.append(Image.open('none.png'))
         self.hats.append(Image.open('none.png'))
 
-    def Load(self, background_filename, body_filename, acessory_filename, hat_filename):
-        # Get the filenames
-        self.background_filename = background_filename
-        self.body_filename = body_filename
-        self.acessory_filename = acessory_filename
-        self.hat_filename = hat_filename
+    def Load(self):
 
-        # Lists to add informations into Properties on upload
+        # Get the filenames
+        elements = ['Backgrounds', 'Bodies', 'Acessories', 'Hats']
 
         self.background_img_name = []
         self.body_img_name = []
         self.acessory_img_name = ['None']
         self.hat_img_name = ['None']
+
+        for element in elements:
+            path, dirs, files = next(os.walk(f"items\\{element}"))
+
+            if element == 'Backgrounds':
+                self.background_img_name = files
+            elif element == 'Bodies':
+                self.body_img_name = files
+            elif element == 'Acessories':
+                self.acessory_img_name = files
+            elif element == 'Hats':
+                self.hat_img_name = files
+
+        self.background_amount =  len(self.background_img_name)
+        self.body_amount = len(self.body_img_name)
+        self.acessory_amount = len(self.acessory_img_name)
+        self.hat_amount = len(self.hat_img_name)
+        # Lists to add informations into Properties on upload
 
         self.background_name = []
         self.body_name = []
@@ -51,69 +65,121 @@ class NFT_generator():
         self.acessory_color = ['None']
         self.hat_color = ['None']
         
-        #                    ---------------- Load the informations of itens into txt ----------------
-        with open('itens_config.txt', 'r') as arq:
-            self.itens = arq.read()
-            self.itens = self.itens.split('\n')
-            del self.itens[0]
+        #         ---------------- Load the informations of itens ----------------
+
+        # Backgrounds
+        for filename in self.background_img_name:
+            self.img_name = filename
+            filename = filename.replace('.png', '')
+            filename = filename.split('-')
+                        
+            if filename[0].count('_') > 0:
+                self.item_name = filename[0].replace('_', ' ')
+            else:
+                self.item_name = filename[0]
+
+            if filename[1].count('_') > 0:
+                self.item_color = filename[1].replace('_', ' ')
+            else:
+                self.item_color = filename[1]
+
+            self.background_name.append(self.item_name)    
+            self.background_color.append(self.item_color)
+        
+        # Bodies
+        for filename in self.body_img_name:
+            self.img_name = filename
+            filename = filename.replace('.png', '')
+            filename = filename.split('-')
+                        
+            if filename[0].count('_') > 0:
+                self.item_name = filename[0].replace('_', ' ')
+            else:
+                self.item_name = filename[0]
+
+            if filename[1].count('_') > 0:
+                self.item_color = filename[1].replace('_', ' ')
+            else:
+                self.item_color = filename[1]
+
             
-            # Split informations
-            for item in self.itens:
-                item = item.split(', ')
-                self.img_name = (item[0])
-                self.item_type = item[1]
-                self.item_name = item[2]
-                self.item_color = item[3]
+            self.body_name.append(self.item_name)
+            self.body_color.append(self.item_color)
 
-                if self.item_type == 'background':
-                    self.background_img_name.append(self.img_name)
-                    self.background_name.append(self.item_name)
-                    self.background_color.append(self.item_color)
+        # Acessories
+        for filename in self.acessory_img_name:
+            self.img_name = filename
+            filename = filename.replace('.png', '')
 
-                elif self.item_type == 'body':
-                    self.body_img_name.append(self.img_name)
-                    self.body_name.append(self.item_name)
-                    self.body_color.append(self.item_color)
+            if filename != 'None':
+                filename = filename.split('-')
 
-                elif self.item_type == 'acessory':
-                    self.acessory_img_name.append(self.img_name)
-                    self.acessory_name.append(self.item_name)
-                    self.acessory_color.append(self.item_color)
+                if filename[0].count('_') > 0:
+                    self.item_name = filename[0].replace('_', ' ')
+                else:
+                    self.item_name = filename[0]
 
-                elif self.item_type == 'hat':
-                    self.hat_img_name.append(self.img_name)
-                    self.hat_name.append(self.item_name)
-                    self.hat_color.append(self.item_color)
+                if filename[1].count('_') > 0:
+                    self.item_color = filename[1].replace('_', ' ')
+                else:
+                    self.item_color = filename[1]
+
+            else:
+                self.item_name = 'None'
+                self.item_color = 'None'
+            
+        
+            self.acessory_name.append(self.item_name)
+            self.acessory_color.append(self.item_color)  
+
+
+        # Hats
+            for filename in self.hat_img_name:
+                self.img_name = filename
+                filename = filename.replace('.png', '')
+                filename = filename.split('-')
                 
-        # Define amount
-        self.background_amount = len(self.background_img_name)
-        self.body_amount = len(self.body_img_name)
-        self.acessory_amount = len(self.acessory_img_name) - 1 # -1 because one == none.png (to generate nfts without acessory and hat) 
-        self.hat_amount = len(self.hat_img_name) - 1
+                if filename != 'None':
+                    if filename[0].count('_') > 0:
+                        self.item_name = filename[0].replace('_', ' ')
+                    else:
+                        self.item_name = filename[0]
+
+                    if filename[1].count('_') > 0:
+                        self.item_color = filename[1].replace('_', ' ')
+                    else:
+                        self.item_color = filename[1]
+                else:
+                    self.item_name = 'None'
+                    self.item_color = 'None'
+
+                self.hat_name.append(self.item_name)
+                self.hat_color.append(self.item_color)
+    
         
         # Total nfts Available
         self.total_nfts = self.background_amount * self.body_amount * (self.acessory_amount+1) * (self.hat_amount+1)
                 
         #                          ---------------- Put itens in lists ----------------
         # Backgrounds
-        for element in range(1, self.background_amount+1):
-            self.backgrounds.append(Image.open(f'itens\\{self.background_filename}{element}.png'))
+        for filename in self.background_img_name:
+            self.backgrounds.append(Image.open(f'items\\Backgrounds\\{filename}'))
 
         # Bodys
-        for element in range(1, self.body_amount+1):
-            self.bodys.append(Image.open(f'itens\\{self.body_filename}{element}.png'))
-
+        for filename in self.body_img_name:
+            self.bodies.append(Image.open(f'items\\Bodies\\{filename}'))
+        
         # acessorys
-        for element in range(1, self.acessory_amount+1):
-            self.acessorys.append(Image.open(f'itens\\{self.acessory_filename}{element}.png'))
+        for filename in self.acessory_img_name:
+            self.acessories.append(Image.open(f'items\\Acessories\\{filename}'))
 
         # Hats
-        for element in range(1, self.hat_amount+1):
-            self.hats.append(Image.open(f'itens\\{self.hat_filename}{element}.png'))
+        for filename in self.hat_img_name:
+            self.hats.append(Image.open(f'items\\Hats\\{filename}'))
 
         print(f'({self.total_nfts}) <- Available NFTS to generate')
 
-    def Find_index(self, type, filename):
+
         # Find index with the filename
 
         if type == 'background':
@@ -222,12 +288,12 @@ class NFT_generator():
         for background in self.backgrounds:
             self.counter_body = 0
 
-            for body in self.bodys:
+            for body in self.bodies:
                 # Add background and body on the nft
                 body_with_background = Image.alpha_composite(im1=background, im2=body)
                 self.counter_acessory = 0
 
-                for acessory in self.acessorys:
+                for acessory in self.acessories:
                     # Add acessory on the nft
                     acessory_with_body = Image.alpha_composite(im1=body_with_background, im2=acessory)
                     self.counter_hats = 0
@@ -240,8 +306,8 @@ class NFT_generator():
                         # ---------------------------- Add info to put in Properties on upload ----------------------------
 
                         # Get index of the item, into those lists with it informations
-                        self.index_background = self.Find_index('background', f'{self.background_filename}{self.counter_background + 1}.png')
-                        self.index_body = self.Find_index('body', f'{self.body_filename}{self.counter_body + 1}.png')
+                        self.index_background = self.counter_background #self.Find_index('background', f'{self.background_img_name[self.counter_background]}')
+                        self.index_body = self.counter_body #self.Find_index('body', f'{self.body_img_name[self.counter_body]}')
 
                         # Get the background name and it color
                         self.background_info = self.background_name[self.index_background]
@@ -257,7 +323,7 @@ class NFT_generator():
                             self.acessory_info = 'None'
                             self.acessory_info_color = 'None'
                         else:
-                            self.index_acessory = self.Find_index('acessory', f'{self.acessory_filename}{self.counter_acessory}.png')
+                            self.index_acessory = self.counter_acessory #self.Find_index('acessory', f'{self.acessory_img_name[self.counter_acessory]}')
                             self.acessory_info = self.acessory_name[self.index_acessory]
                             self.acessory_info_color = self.acessory_color[self.index_acessory]
 
@@ -266,7 +332,7 @@ class NFT_generator():
                             self.hat_info = 'None'
                             self.hat_info_color = 'None'
                         else:
-                            self.index_hat = self.Find_index('hat', f'{self.hat_filename}{self.counter_hats}.png')
+                            self.index_hat = self.counter_hats #self.Find_index('hat', f'{self.hat_img_name[self.counter_hats]}')
                             self.hat_info = self.hat_name[self.index_hat]
                             self.hat_info_color = self.hat_color[self.index_hat]
 
@@ -481,13 +547,7 @@ def Gui():
             os.system('cls')
             p1 = NFT_generator()
             print("<------ Option: Generate Nfts ------>\n")
-
-            background_filename = input('background filename:')
-            body_filename = input('body filename: ')
-            acessory_filename = input('acessory filename: ')
-            hat_filename = input('hat filename: ')
-
-            p1.Load(background_filename, body_filename, acessory_filename, hat_filename)
+            p1.Load()
             decision = input('Are you sure? (Y/N)')
             if decision == 'N':
                 return
