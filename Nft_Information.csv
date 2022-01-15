@@ -1,1 +1,851 @@
 ,nft_name,background,body,acessory,hat,background_color,body_color,acessory_color,hat_color
+0,nft1.png,Background,Body,None,None,Blue,Brown,None,None
+1,nft2.png,Background,Body,None,Cap,Blue,Brown,None,Red
+2,nft3.png,Background,Body,None,Eye Patch,Blue,Brown,None,Black
+3,nft4.png,Background,Body,None,Three Hair,Blue,Brown,None,Black
+4,nft5.png,Background,Body,None,Wool Cap,Blue,Brown,None,Brown
+5,nft6.png,Background,Body,None,Wool Cap,Blue,Brown,None,Pink
+6,nft7.png,Background,Body,Bow tie,None,Blue,Brown,Red,None
+7,nft8.png,Background,Body,Bow tie,Cap,Blue,Brown,Red,Red
+10,nft11.png,Background,Body,Bow tie,Wool Cap,Blue,Brown,Red,Brown
+11,nft12.png,Background,Body,Bow tie,Wool Cap,Blue,Brown,Red,Pink
+12,nft13.png,Background,Body,Distinctive,None,Blue,Brown,Gold,None
+13,nft14.png,Background,Body,Distinctive,Cap,Blue,Brown,Gold,Red
+14,nft15.png,Background,Body,Distinctive,Eye Patch,Blue,Brown,Gold,Black
+15,nft16.png,Background,Body,Distinctive,Three Hair,Blue,Brown,Gold,Black
+16,nft17.png,Background,Body,Distinctive,Wool Cap,Blue,Brown,Gold,Brown
+17,nft18.png,Background,Body,Distinctive,Wool Cap,Blue,Brown,Gold,Pink
+18,nft19.png,Background,Body,Necklace,None,Blue,Brown,Gold,None
+19,nft20.png,Background,Body,Necklace,Cap,Blue,Brown,Gold,Red
+20,nft21.png,Background,Body,Necklace,Eye Patch,Blue,Brown,Gold,Black
+21,nft22.png,Background,Body,Necklace,Three Hair,Blue,Brown,Gold,Black
+22,nft23.png,Background,Body,Necklace,Wool Cap,Blue,Brown,Gold,Brown
+23,nft24.png,Background,Body,Necklace,Wool Cap,Blue,Brown,Gold,Pink
+24,nft25.png,Background,Body,Scar,None,Blue,Brown,None,None
+25,nft26.png,Background,Body,Scar,Cap,Blue,Brown,None,Red
+26,nft27.png,Background,Body,Scar,Eye Patch,Blue,Brown,None,Black
+27,nft28.png,Background,Body,Scar,Three Hair,Blue,Brown,None,Black
+28,nft29.png,Background,Body,Scar,Wool Cap,Blue,Brown,None,Brown
+29,nft30.png,Background,Body,Scar,Wool Cap,Blue,Brown,None,Pink
+30,nft31.png,Background,Body,Tatto,None,Blue,Brown,Black,None
+31,nft32.png,Background,Body,Tatto,Cap,Blue,Brown,Black,Red
+32,nft33.png,Background,Body,Tatto,Eye Patch,Blue,Brown,Black,Black
+33,nft34.png,Background,Body,Tatto,Three Hair,Blue,Brown,Black,Black
+34,nft35.png,Background,Body,Tatto,Wool Cap,Blue,Brown,Black,Brown
+35,nft36.png,Background,Body,Tatto,Wool Cap,Blue,Brown,Black,Pink
+36,nft37.png,Background,Old Suit,None,None,Blue,Light Brown,None,None
+37,nft38.png,Background,Old Suit,None,Cap,Blue,Light Brown,None,Red
+38,nft39.png,Background,Old Suit,None,Eye Patch,Blue,Light Brown,None,Black
+39,nft40.png,Background,Old Suit,None,Three Hair,Blue,Light Brown,None,Black
+40,nft41.png,Background,Old Suit,None,Wool Cap,Blue,Light Brown,None,Brown
+41,nft42.png,Background,Old Suit,None,Wool Cap,Blue,Light Brown,None,Pink
+43,nft44.png,Background,Old Suit,Bow tie,Cap,Blue,Light Brown,Red,Red
+44,nft45.png,Background,Old Suit,Bow tie,Eye Patch,Blue,Light Brown,Red,Black
+47,nft48.png,Background,Old Suit,Bow tie,Wool Cap,Blue,Light Brown,Red,Pink
+48,nft49.png,Background,Old Suit,Distinctive,None,Blue,Light Brown,Gold,None
+49,nft50.png,Background,Old Suit,Distinctive,Cap,Blue,Light Brown,Gold,Red
+50,nft51.png,Background,Old Suit,Distinctive,Eye Patch,Blue,Light Brown,Gold,Black
+51,nft52.png,Background,Old Suit,Distinctive,Three Hair,Blue,Light Brown,Gold,Black
+52,nft53.png,Background,Old Suit,Distinctive,Wool Cap,Blue,Light Brown,Gold,Brown
+53,nft54.png,Background,Old Suit,Distinctive,Wool Cap,Blue,Light Brown,Gold,Pink
+54,nft55.png,Background,Old Suit,Necklace,None,Blue,Light Brown,Gold,None
+55,nft56.png,Background,Old Suit,Necklace,Cap,Blue,Light Brown,Gold,Red
+56,nft57.png,Background,Old Suit,Necklace,Eye Patch,Blue,Light Brown,Gold,Black
+57,nft58.png,Background,Old Suit,Necklace,Three Hair,Blue,Light Brown,Gold,Black
+58,nft59.png,Background,Old Suit,Necklace,Wool Cap,Blue,Light Brown,Gold,Brown
+59,nft60.png,Background,Old Suit,Necklace,Wool Cap,Blue,Light Brown,Gold,Pink
+60,nft61.png,Background,Old Suit,Scar,None,Blue,Light Brown,None,None
+61,nft62.png,Background,Old Suit,Scar,Cap,Blue,Light Brown,None,Red
+62,nft63.png,Background,Old Suit,Scar,Eye Patch,Blue,Light Brown,None,Black
+63,nft64.png,Background,Old Suit,Scar,Three Hair,Blue,Light Brown,None,Black
+64,nft65.png,Background,Old Suit,Scar,Wool Cap,Blue,Light Brown,None,Brown
+65,nft66.png,Background,Old Suit,Scar,Wool Cap,Blue,Light Brown,None,Pink
+66,nft67.png,Background,Old Suit,Tatto,None,Blue,Light Brown,Black,None
+67,nft68.png,Background,Old Suit,Tatto,Cap,Blue,Light Brown,Black,Red
+68,nft69.png,Background,Old Suit,Tatto,Eye Patch,Blue,Light Brown,Black,Black
+69,nft70.png,Background,Old Suit,Tatto,Three Hair,Blue,Light Brown,Black,Black
+70,nft71.png,Background,Old Suit,Tatto,Wool Cap,Blue,Light Brown,Black,Brown
+71,nft72.png,Background,Old Suit,Tatto,Wool Cap,Blue,Light Brown,Black,Pink
+72,nft73.png,Background,Suit,None,None,Blue,Black and white,None,None
+73,nft74.png,Background,Suit,None,Cap,Blue,Black and white,None,Red
+74,nft75.png,Background,Suit,None,Eye Patch,Blue,Black and white,None,Black
+75,nft76.png,Background,Suit,None,Three Hair,Blue,Black and white,None,Black
+76,nft77.png,Background,Suit,None,Wool Cap,Blue,Black and white,None,Brown
+77,nft78.png,Background,Suit,None,Wool Cap,Blue,Black and white,None,Pink
+78,nft79.png,Background,Suit,Bow tie,None,Blue,Black and white,Red,None
+79,nft80.png,Background,Suit,Bow tie,Cap,Blue,Black and white,Red,Red
+80,nft81.png,Background,Suit,Bow tie,Eye Patch,Blue,Black and white,Red,Black
+82,nft83.png,Background,Suit,Bow tie,Wool Cap,Blue,Black and white,Red,Brown
+84,nft85.png,Background,Suit,Distinctive,None,Blue,Black and white,Gold,None
+85,nft86.png,Background,Suit,Distinctive,Cap,Blue,Black and white,Gold,Red
+86,nft87.png,Background,Suit,Distinctive,Eye Patch,Blue,Black and white,Gold,Black
+87,nft88.png,Background,Suit,Distinctive,Three Hair,Blue,Black and white,Gold,Black
+88,nft89.png,Background,Suit,Distinctive,Wool Cap,Blue,Black and white,Gold,Brown
+89,nft90.png,Background,Suit,Distinctive,Wool Cap,Blue,Black and white,Gold,Pink
+90,nft91.png,Background,Suit,Necklace,None,Blue,Black and white,Gold,None
+91,nft92.png,Background,Suit,Necklace,Cap,Blue,Black and white,Gold,Red
+92,nft93.png,Background,Suit,Necklace,Eye Patch,Blue,Black and white,Gold,Black
+93,nft94.png,Background,Suit,Necklace,Three Hair,Blue,Black and white,Gold,Black
+94,nft95.png,Background,Suit,Necklace,Wool Cap,Blue,Black and white,Gold,Brown
+95,nft96.png,Background,Suit,Necklace,Wool Cap,Blue,Black and white,Gold,Pink
+96,nft97.png,Background,Suit,Scar,None,Blue,Black and white,None,None
+97,nft98.png,Background,Suit,Scar,Cap,Blue,Black and white,None,Red
+98,nft99.png,Background,Suit,Scar,Eye Patch,Blue,Black and white,None,Black
+99,nft100.png,Background,Suit,Scar,Three Hair,Blue,Black and white,None,Black
+100,nft101.png,Background,Suit,Scar,Wool Cap,Blue,Black and white,None,Brown
+101,nft102.png,Background,Suit,Scar,Wool Cap,Blue,Black and white,None,Pink
+102,nft103.png,Background,Suit,Tatto,None,Blue,Black and white,Black,None
+103,nft104.png,Background,Suit,Tatto,Cap,Blue,Black and white,Black,Red
+104,nft105.png,Background,Suit,Tatto,Eye Patch,Blue,Black and white,Black,Black
+105,nft106.png,Background,Suit,Tatto,Three Hair,Blue,Black and white,Black,Black
+106,nft107.png,Background,Suit,Tatto,Wool Cap,Blue,Black and white,Black,Brown
+107,nft108.png,Background,Suit,Tatto,Wool Cap,Blue,Black and white,Black,Pink
+108,nft109.png,Background,Suit,None,None,Blue,Pink,None,None
+109,nft110.png,Background,Suit,None,Cap,Blue,Pink,None,Red
+110,nft111.png,Background,Suit,None,Eye Patch,Blue,Pink,None,Black
+111,nft112.png,Background,Suit,None,Three Hair,Blue,Pink,None,Black
+112,nft113.png,Background,Suit,None,Wool Cap,Blue,Pink,None,Brown
+113,nft114.png,Background,Suit,None,Wool Cap,Blue,Pink,None,Pink
+114,nft115.png,Background,Suit,Bow tie,None,Blue,Pink,Red,None
+116,nft117.png,Background,Suit,Bow tie,Eye Patch,Blue,Pink,Red,Black
+117,nft118.png,Background,Suit,Bow tie,Three Hair,Blue,Pink,Red,Black
+118,nft119.png,Background,Suit,Bow tie,Wool Cap,Blue,Pink,Red,Brown
+120,nft121.png,Background,Suit,Distinctive,None,Blue,Pink,Gold,None
+121,nft122.png,Background,Suit,Distinctive,Cap,Blue,Pink,Gold,Red
+122,nft123.png,Background,Suit,Distinctive,Eye Patch,Blue,Pink,Gold,Black
+123,nft124.png,Background,Suit,Distinctive,Three Hair,Blue,Pink,Gold,Black
+124,nft125.png,Background,Suit,Distinctive,Wool Cap,Blue,Pink,Gold,Brown
+125,nft126.png,Background,Suit,Distinctive,Wool Cap,Blue,Pink,Gold,Pink
+126,nft127.png,Background,Suit,Necklace,None,Blue,Pink,Gold,None
+127,nft128.png,Background,Suit,Necklace,Cap,Blue,Pink,Gold,Red
+128,nft129.png,Background,Suit,Necklace,Eye Patch,Blue,Pink,Gold,Black
+129,nft130.png,Background,Suit,Necklace,Three Hair,Blue,Pink,Gold,Black
+130,nft131.png,Background,Suit,Necklace,Wool Cap,Blue,Pink,Gold,Brown
+131,nft132.png,Background,Suit,Necklace,Wool Cap,Blue,Pink,Gold,Pink
+132,nft133.png,Background,Suit,Scar,None,Blue,Pink,None,None
+133,nft134.png,Background,Suit,Scar,Cap,Blue,Pink,None,Red
+134,nft135.png,Background,Suit,Scar,Eye Patch,Blue,Pink,None,Black
+135,nft136.png,Background,Suit,Scar,Three Hair,Blue,Pink,None,Black
+136,nft137.png,Background,Suit,Scar,Wool Cap,Blue,Pink,None,Brown
+137,nft138.png,Background,Suit,Scar,Wool Cap,Blue,Pink,None,Pink
+138,nft139.png,Background,Suit,Tatto,None,Blue,Pink,Black,None
+139,nft140.png,Background,Suit,Tatto,Cap,Blue,Pink,Black,Red
+140,nft141.png,Background,Suit,Tatto,Eye Patch,Blue,Pink,Black,Black
+141,nft142.png,Background,Suit,Tatto,Three Hair,Blue,Pink,Black,Black
+142,nft143.png,Background,Suit,Tatto,Wool Cap,Blue,Pink,Black,Brown
+143,nft144.png,Background,Suit,Tatto,Wool Cap,Blue,Pink,Black,Pink
+144,nft145.png,Background,Turtleneck Blouse,None,None,Blue,Black,None,None
+145,nft146.png,Background,Turtleneck Blouse,None,Cap,Blue,Black,None,Red
+146,nft147.png,Background,Turtleneck Blouse,None,Eye Patch,Blue,Black,None,Black
+147,nft148.png,Background,Turtleneck Blouse,None,Three Hair,Blue,Black,None,Black
+148,nft149.png,Background,Turtleneck Blouse,None,Wool Cap,Blue,Black,None,Brown
+149,nft150.png,Background,Turtleneck Blouse,None,Wool Cap,Blue,Black,None,Pink
+150,nft151.png,Background,Turtleneck Blouse,Bow tie,None,Blue,Black,Red,None
+151,nft152.png,Background,Turtleneck Blouse,Bow tie,Cap,Blue,Black,Red,Red
+153,nft154.png,Background,Turtleneck Blouse,Bow tie,Three Hair,Blue,Black,Red,Black
+154,nft155.png,Background,Turtleneck Blouse,Bow tie,Wool Cap,Blue,Black,Red,Brown
+155,nft156.png,Background,Turtleneck Blouse,Bow tie,Wool Cap,Blue,Black,Red,Pink
+156,nft157.png,Background,Turtleneck Blouse,Distinctive,None,Blue,Black,Gold,None
+157,nft158.png,Background,Turtleneck Blouse,Distinctive,Cap,Blue,Black,Gold,Red
+158,nft159.png,Background,Turtleneck Blouse,Distinctive,Eye Patch,Blue,Black,Gold,Black
+159,nft160.png,Background,Turtleneck Blouse,Distinctive,Three Hair,Blue,Black,Gold,Black
+160,nft161.png,Background,Turtleneck Blouse,Distinctive,Wool Cap,Blue,Black,Gold,Brown
+161,nft162.png,Background,Turtleneck Blouse,Distinctive,Wool Cap,Blue,Black,Gold,Pink
+162,nft163.png,Background,Turtleneck Blouse,Necklace,None,Blue,Black,Gold,None
+163,nft164.png,Background,Turtleneck Blouse,Necklace,Cap,Blue,Black,Gold,Red
+164,nft165.png,Background,Turtleneck Blouse,Necklace,Eye Patch,Blue,Black,Gold,Black
+165,nft166.png,Background,Turtleneck Blouse,Necklace,Three Hair,Blue,Black,Gold,Black
+166,nft167.png,Background,Turtleneck Blouse,Necklace,Wool Cap,Blue,Black,Gold,Brown
+167,nft168.png,Background,Turtleneck Blouse,Necklace,Wool Cap,Blue,Black,Gold,Pink
+168,nft169.png,Background,Turtleneck Blouse,Scar,None,Blue,Black,None,None
+169,nft170.png,Background,Turtleneck Blouse,Scar,Cap,Blue,Black,None,Red
+170,nft171.png,Background,Turtleneck Blouse,Scar,Eye Patch,Blue,Black,None,Black
+171,nft172.png,Background,Turtleneck Blouse,Scar,Three Hair,Blue,Black,None,Black
+172,nft173.png,Background,Turtleneck Blouse,Scar,Wool Cap,Blue,Black,None,Brown
+173,nft174.png,Background,Turtleneck Blouse,Scar,Wool Cap,Blue,Black,None,Pink
+174,nft175.png,Background,Turtleneck Blouse,Tatto,None,Blue,Black,Black,None
+175,nft176.png,Background,Turtleneck Blouse,Tatto,Cap,Blue,Black,Black,Red
+176,nft177.png,Background,Turtleneck Blouse,Tatto,Eye Patch,Blue,Black,Black,Black
+177,nft178.png,Background,Turtleneck Blouse,Tatto,Three Hair,Blue,Black,Black,Black
+178,nft179.png,Background,Turtleneck Blouse,Tatto,Wool Cap,Blue,Black,Black,Brown
+179,nft180.png,Background,Turtleneck Blouse,Tatto,Wool Cap,Blue,Black,Black,Pink
+180,nft181.png,Background,Body,None,None,Green,Brown,None,None
+181,nft182.png,Background,Body,None,Cap,Green,Brown,None,Red
+182,nft183.png,Background,Body,None,Eye Patch,Green,Brown,None,Black
+183,nft184.png,Background,Body,None,Three Hair,Green,Brown,None,Black
+184,nft185.png,Background,Body,None,Wool Cap,Green,Brown,None,Brown
+185,nft186.png,Background,Body,None,Wool Cap,Green,Brown,None,Pink
+187,nft188.png,Background,Body,Bow tie,Cap,Green,Brown,Red,Red
+189,nft190.png,Background,Body,Bow tie,Three Hair,Green,Brown,Red,Black
+191,nft192.png,Background,Body,Bow tie,Wool Cap,Green,Brown,Red,Pink
+192,nft193.png,Background,Body,Distinctive,None,Green,Brown,Gold,None
+193,nft194.png,Background,Body,Distinctive,Cap,Green,Brown,Gold,Red
+194,nft195.png,Background,Body,Distinctive,Eye Patch,Green,Brown,Gold,Black
+195,nft196.png,Background,Body,Distinctive,Three Hair,Green,Brown,Gold,Black
+196,nft197.png,Background,Body,Distinctive,Wool Cap,Green,Brown,Gold,Brown
+197,nft198.png,Background,Body,Distinctive,Wool Cap,Green,Brown,Gold,Pink
+198,nft199.png,Background,Body,Necklace,None,Green,Brown,Gold,None
+199,nft200.png,Background,Body,Necklace,Cap,Green,Brown,Gold,Red
+200,nft201.png,Background,Body,Necklace,Eye Patch,Green,Brown,Gold,Black
+201,nft202.png,Background,Body,Necklace,Three Hair,Green,Brown,Gold,Black
+202,nft203.png,Background,Body,Necklace,Wool Cap,Green,Brown,Gold,Brown
+203,nft204.png,Background,Body,Necklace,Wool Cap,Green,Brown,Gold,Pink
+204,nft205.png,Background,Body,Scar,None,Green,Brown,None,None
+205,nft206.png,Background,Body,Scar,Cap,Green,Brown,None,Red
+206,nft207.png,Background,Body,Scar,Eye Patch,Green,Brown,None,Black
+207,nft208.png,Background,Body,Scar,Three Hair,Green,Brown,None,Black
+208,nft209.png,Background,Body,Scar,Wool Cap,Green,Brown,None,Brown
+209,nft210.png,Background,Body,Scar,Wool Cap,Green,Brown,None,Pink
+210,nft211.png,Background,Body,Tatto,None,Green,Brown,Black,None
+211,nft212.png,Background,Body,Tatto,Cap,Green,Brown,Black,Red
+212,nft213.png,Background,Body,Tatto,Eye Patch,Green,Brown,Black,Black
+213,nft214.png,Background,Body,Tatto,Three Hair,Green,Brown,Black,Black
+214,nft215.png,Background,Body,Tatto,Wool Cap,Green,Brown,Black,Brown
+215,nft216.png,Background,Body,Tatto,Wool Cap,Green,Brown,Black,Pink
+216,nft217.png,Background,Old Suit,None,None,Green,Light Brown,None,None
+217,nft218.png,Background,Old Suit,None,Cap,Green,Light Brown,None,Red
+218,nft219.png,Background,Old Suit,None,Eye Patch,Green,Light Brown,None,Black
+219,nft220.png,Background,Old Suit,None,Three Hair,Green,Light Brown,None,Black
+220,nft221.png,Background,Old Suit,None,Wool Cap,Green,Light Brown,None,Brown
+221,nft222.png,Background,Old Suit,None,Wool Cap,Green,Light Brown,None,Pink
+222,nft223.png,Background,Old Suit,Bow tie,None,Green,Light Brown,Red,None
+224,nft225.png,Background,Old Suit,Bow tie,Eye Patch,Green,Light Brown,Red,Black
+225,nft226.png,Background,Old Suit,Bow tie,Three Hair,Green,Light Brown,Red,Black
+226,nft227.png,Background,Old Suit,Bow tie,Wool Cap,Green,Light Brown,Red,Brown
+227,nft228.png,Background,Old Suit,Bow tie,Wool Cap,Green,Light Brown,Red,Pink
+228,nft229.png,Background,Old Suit,Distinctive,None,Green,Light Brown,Gold,None
+229,nft230.png,Background,Old Suit,Distinctive,Cap,Green,Light Brown,Gold,Red
+230,nft231.png,Background,Old Suit,Distinctive,Eye Patch,Green,Light Brown,Gold,Black
+231,nft232.png,Background,Old Suit,Distinctive,Three Hair,Green,Light Brown,Gold,Black
+232,nft233.png,Background,Old Suit,Distinctive,Wool Cap,Green,Light Brown,Gold,Brown
+233,nft234.png,Background,Old Suit,Distinctive,Wool Cap,Green,Light Brown,Gold,Pink
+234,nft235.png,Background,Old Suit,Necklace,None,Green,Light Brown,Gold,None
+235,nft236.png,Background,Old Suit,Necklace,Cap,Green,Light Brown,Gold,Red
+236,nft237.png,Background,Old Suit,Necklace,Eye Patch,Green,Light Brown,Gold,Black
+237,nft238.png,Background,Old Suit,Necklace,Three Hair,Green,Light Brown,Gold,Black
+238,nft239.png,Background,Old Suit,Necklace,Wool Cap,Green,Light Brown,Gold,Brown
+239,nft240.png,Background,Old Suit,Necklace,Wool Cap,Green,Light Brown,Gold,Pink
+240,nft241.png,Background,Old Suit,Scar,None,Green,Light Brown,None,None
+241,nft242.png,Background,Old Suit,Scar,Cap,Green,Light Brown,None,Red
+242,nft243.png,Background,Old Suit,Scar,Eye Patch,Green,Light Brown,None,Black
+243,nft244.png,Background,Old Suit,Scar,Three Hair,Green,Light Brown,None,Black
+244,nft245.png,Background,Old Suit,Scar,Wool Cap,Green,Light Brown,None,Brown
+245,nft246.png,Background,Old Suit,Scar,Wool Cap,Green,Light Brown,None,Pink
+246,nft247.png,Background,Old Suit,Tatto,None,Green,Light Brown,Black,None
+247,nft248.png,Background,Old Suit,Tatto,Cap,Green,Light Brown,Black,Red
+248,nft249.png,Background,Old Suit,Tatto,Eye Patch,Green,Light Brown,Black,Black
+249,nft250.png,Background,Old Suit,Tatto,Three Hair,Green,Light Brown,Black,Black
+250,nft251.png,Background,Old Suit,Tatto,Wool Cap,Green,Light Brown,Black,Brown
+251,nft252.png,Background,Old Suit,Tatto,Wool Cap,Green,Light Brown,Black,Pink
+252,nft253.png,Background,Suit,None,None,Green,Black and white,None,None
+253,nft254.png,Background,Suit,None,Cap,Green,Black and white,None,Red
+254,nft255.png,Background,Suit,None,Eye Patch,Green,Black and white,None,Black
+255,nft256.png,Background,Suit,None,Three Hair,Green,Black and white,None,Black
+256,nft257.png,Background,Suit,None,Wool Cap,Green,Black and white,None,Brown
+257,nft258.png,Background,Suit,None,Wool Cap,Green,Black and white,None,Pink
+258,nft259.png,Background,Suit,Bow tie,None,Green,Black and white,Red,None
+259,nft260.png,Background,Suit,Bow tie,Cap,Green,Black and white,Red,Red
+261,nft262.png,Background,Suit,Bow tie,Three Hair,Green,Black and white,Red,Black
+262,nft263.png,Background,Suit,Bow tie,Wool Cap,Green,Black and white,Red,Brown
+263,nft264.png,Background,Suit,Bow tie,Wool Cap,Green,Black and white,Red,Pink
+264,nft265.png,Background,Suit,Distinctive,None,Green,Black and white,Gold,None
+265,nft266.png,Background,Suit,Distinctive,Cap,Green,Black and white,Gold,Red
+266,nft267.png,Background,Suit,Distinctive,Eye Patch,Green,Black and white,Gold,Black
+267,nft268.png,Background,Suit,Distinctive,Three Hair,Green,Black and white,Gold,Black
+268,nft269.png,Background,Suit,Distinctive,Wool Cap,Green,Black and white,Gold,Brown
+269,nft270.png,Background,Suit,Distinctive,Wool Cap,Green,Black and white,Gold,Pink
+270,nft271.png,Background,Suit,Necklace,None,Green,Black and white,Gold,None
+271,nft272.png,Background,Suit,Necklace,Cap,Green,Black and white,Gold,Red
+272,nft273.png,Background,Suit,Necklace,Eye Patch,Green,Black and white,Gold,Black
+273,nft274.png,Background,Suit,Necklace,Three Hair,Green,Black and white,Gold,Black
+274,nft275.png,Background,Suit,Necklace,Wool Cap,Green,Black and white,Gold,Brown
+275,nft276.png,Background,Suit,Necklace,Wool Cap,Green,Black and white,Gold,Pink
+276,nft277.png,Background,Suit,Scar,None,Green,Black and white,None,None
+277,nft278.png,Background,Suit,Scar,Cap,Green,Black and white,None,Red
+278,nft279.png,Background,Suit,Scar,Eye Patch,Green,Black and white,None,Black
+279,nft280.png,Background,Suit,Scar,Three Hair,Green,Black and white,None,Black
+280,nft281.png,Background,Suit,Scar,Wool Cap,Green,Black and white,None,Brown
+281,nft282.png,Background,Suit,Scar,Wool Cap,Green,Black and white,None,Pink
+282,nft283.png,Background,Suit,Tatto,None,Green,Black and white,Black,None
+283,nft284.png,Background,Suit,Tatto,Cap,Green,Black and white,Black,Red
+284,nft285.png,Background,Suit,Tatto,Eye Patch,Green,Black and white,Black,Black
+285,nft286.png,Background,Suit,Tatto,Three Hair,Green,Black and white,Black,Black
+286,nft287.png,Background,Suit,Tatto,Wool Cap,Green,Black and white,Black,Brown
+287,nft288.png,Background,Suit,Tatto,Wool Cap,Green,Black and white,Black,Pink
+288,nft289.png,Background,Suit,None,None,Green,Pink,None,None
+289,nft290.png,Background,Suit,None,Cap,Green,Pink,None,Red
+290,nft291.png,Background,Suit,None,Eye Patch,Green,Pink,None,Black
+291,nft292.png,Background,Suit,None,Three Hair,Green,Pink,None,Black
+292,nft293.png,Background,Suit,None,Wool Cap,Green,Pink,None,Brown
+293,nft294.png,Background,Suit,None,Wool Cap,Green,Pink,None,Pink
+294,nft295.png,Background,Suit,Bow tie,None,Green,Pink,Red,None
+296,nft297.png,Background,Suit,Bow tie,Eye Patch,Green,Pink,Red,Black
+297,nft298.png,Background,Suit,Bow tie,Three Hair,Green,Pink,Red,Black
+299,nft300.png,Background,Suit,Bow tie,Wool Cap,Green,Pink,Red,Pink
+300,nft301.png,Background,Suit,Distinctive,None,Green,Pink,Gold,None
+301,nft302.png,Background,Suit,Distinctive,Cap,Green,Pink,Gold,Red
+302,nft303.png,Background,Suit,Distinctive,Eye Patch,Green,Pink,Gold,Black
+303,nft304.png,Background,Suit,Distinctive,Three Hair,Green,Pink,Gold,Black
+304,nft305.png,Background,Suit,Distinctive,Wool Cap,Green,Pink,Gold,Brown
+305,nft306.png,Background,Suit,Distinctive,Wool Cap,Green,Pink,Gold,Pink
+306,nft307.png,Background,Suit,Necklace,None,Green,Pink,Gold,None
+307,nft308.png,Background,Suit,Necklace,Cap,Green,Pink,Gold,Red
+308,nft309.png,Background,Suit,Necklace,Eye Patch,Green,Pink,Gold,Black
+309,nft310.png,Background,Suit,Necklace,Three Hair,Green,Pink,Gold,Black
+310,nft311.png,Background,Suit,Necklace,Wool Cap,Green,Pink,Gold,Brown
+311,nft312.png,Background,Suit,Necklace,Wool Cap,Green,Pink,Gold,Pink
+312,nft313.png,Background,Suit,Scar,None,Green,Pink,None,None
+313,nft314.png,Background,Suit,Scar,Cap,Green,Pink,None,Red
+314,nft315.png,Background,Suit,Scar,Eye Patch,Green,Pink,None,Black
+315,nft316.png,Background,Suit,Scar,Three Hair,Green,Pink,None,Black
+316,nft317.png,Background,Suit,Scar,Wool Cap,Green,Pink,None,Brown
+317,nft318.png,Background,Suit,Scar,Wool Cap,Green,Pink,None,Pink
+318,nft319.png,Background,Suit,Tatto,None,Green,Pink,Black,None
+319,nft320.png,Background,Suit,Tatto,Cap,Green,Pink,Black,Red
+320,nft321.png,Background,Suit,Tatto,Eye Patch,Green,Pink,Black,Black
+321,nft322.png,Background,Suit,Tatto,Three Hair,Green,Pink,Black,Black
+322,nft323.png,Background,Suit,Tatto,Wool Cap,Green,Pink,Black,Brown
+323,nft324.png,Background,Suit,Tatto,Wool Cap,Green,Pink,Black,Pink
+324,nft325.png,Background,Turtleneck Blouse,None,None,Green,Black,None,None
+325,nft326.png,Background,Turtleneck Blouse,None,Cap,Green,Black,None,Red
+326,nft327.png,Background,Turtleneck Blouse,None,Eye Patch,Green,Black,None,Black
+327,nft328.png,Background,Turtleneck Blouse,None,Three Hair,Green,Black,None,Black
+328,nft329.png,Background,Turtleneck Blouse,None,Wool Cap,Green,Black,None,Brown
+329,nft330.png,Background,Turtleneck Blouse,None,Wool Cap,Green,Black,None,Pink
+330,nft331.png,Background,Turtleneck Blouse,Bow tie,None,Green,Black,Red,None
+333,nft334.png,Background,Turtleneck Blouse,Bow tie,Three Hair,Green,Black,Red,Black
+336,nft337.png,Background,Turtleneck Blouse,Distinctive,None,Green,Black,Gold,None
+337,nft338.png,Background,Turtleneck Blouse,Distinctive,Cap,Green,Black,Gold,Red
+338,nft339.png,Background,Turtleneck Blouse,Distinctive,Eye Patch,Green,Black,Gold,Black
+339,nft340.png,Background,Turtleneck Blouse,Distinctive,Three Hair,Green,Black,Gold,Black
+340,nft341.png,Background,Turtleneck Blouse,Distinctive,Wool Cap,Green,Black,Gold,Brown
+341,nft342.png,Background,Turtleneck Blouse,Distinctive,Wool Cap,Green,Black,Gold,Pink
+342,nft343.png,Background,Turtleneck Blouse,Necklace,None,Green,Black,Gold,None
+343,nft344.png,Background,Turtleneck Blouse,Necklace,Cap,Green,Black,Gold,Red
+344,nft345.png,Background,Turtleneck Blouse,Necklace,Eye Patch,Green,Black,Gold,Black
+345,nft346.png,Background,Turtleneck Blouse,Necklace,Three Hair,Green,Black,Gold,Black
+346,nft347.png,Background,Turtleneck Blouse,Necklace,Wool Cap,Green,Black,Gold,Brown
+347,nft348.png,Background,Turtleneck Blouse,Necklace,Wool Cap,Green,Black,Gold,Pink
+348,nft349.png,Background,Turtleneck Blouse,Scar,None,Green,Black,None,None
+349,nft350.png,Background,Turtleneck Blouse,Scar,Cap,Green,Black,None,Red
+350,nft351.png,Background,Turtleneck Blouse,Scar,Eye Patch,Green,Black,None,Black
+351,nft352.png,Background,Turtleneck Blouse,Scar,Three Hair,Green,Black,None,Black
+352,nft353.png,Background,Turtleneck Blouse,Scar,Wool Cap,Green,Black,None,Brown
+353,nft354.png,Background,Turtleneck Blouse,Scar,Wool Cap,Green,Black,None,Pink
+354,nft355.png,Background,Turtleneck Blouse,Tatto,None,Green,Black,Black,None
+355,nft356.png,Background,Turtleneck Blouse,Tatto,Cap,Green,Black,Black,Red
+356,nft357.png,Background,Turtleneck Blouse,Tatto,Eye Patch,Green,Black,Black,Black
+357,nft358.png,Background,Turtleneck Blouse,Tatto,Three Hair,Green,Black,Black,Black
+358,nft359.png,Background,Turtleneck Blouse,Tatto,Wool Cap,Green,Black,Black,Brown
+359,nft360.png,Background,Turtleneck Blouse,Tatto,Wool Cap,Green,Black,Black,Pink
+360,nft361.png,Background,Body,None,None,Orange,Brown,None,None
+361,nft362.png,Background,Body,None,Cap,Orange,Brown,None,Red
+362,nft363.png,Background,Body,None,Eye Patch,Orange,Brown,None,Black
+363,nft364.png,Background,Body,None,Three Hair,Orange,Brown,None,Black
+364,nft365.png,Background,Body,None,Wool Cap,Orange,Brown,None,Brown
+365,nft366.png,Background,Body,None,Wool Cap,Orange,Brown,None,Pink
+367,nft368.png,Background,Body,Bow tie,Cap,Orange,Brown,Red,Red
+368,nft369.png,Background,Body,Bow tie,Eye Patch,Orange,Brown,Red,Black
+370,nft371.png,Background,Body,Bow tie,Wool Cap,Orange,Brown,Red,Brown
+372,nft373.png,Background,Body,Distinctive,None,Orange,Brown,Gold,None
+373,nft374.png,Background,Body,Distinctive,Cap,Orange,Brown,Gold,Red
+374,nft375.png,Background,Body,Distinctive,Eye Patch,Orange,Brown,Gold,Black
+375,nft376.png,Background,Body,Distinctive,Three Hair,Orange,Brown,Gold,Black
+376,nft377.png,Background,Body,Distinctive,Wool Cap,Orange,Brown,Gold,Brown
+377,nft378.png,Background,Body,Distinctive,Wool Cap,Orange,Brown,Gold,Pink
+378,nft379.png,Background,Body,Necklace,None,Orange,Brown,Gold,None
+379,nft380.png,Background,Body,Necklace,Cap,Orange,Brown,Gold,Red
+380,nft381.png,Background,Body,Necklace,Eye Patch,Orange,Brown,Gold,Black
+381,nft382.png,Background,Body,Necklace,Three Hair,Orange,Brown,Gold,Black
+382,nft383.png,Background,Body,Necklace,Wool Cap,Orange,Brown,Gold,Brown
+383,nft384.png,Background,Body,Necklace,Wool Cap,Orange,Brown,Gold,Pink
+384,nft385.png,Background,Body,Scar,None,Orange,Brown,None,None
+385,nft386.png,Background,Body,Scar,Cap,Orange,Brown,None,Red
+386,nft387.png,Background,Body,Scar,Eye Patch,Orange,Brown,None,Black
+387,nft388.png,Background,Body,Scar,Three Hair,Orange,Brown,None,Black
+388,nft389.png,Background,Body,Scar,Wool Cap,Orange,Brown,None,Brown
+389,nft390.png,Background,Body,Scar,Wool Cap,Orange,Brown,None,Pink
+390,nft391.png,Background,Body,Tatto,None,Orange,Brown,Black,None
+391,nft392.png,Background,Body,Tatto,Cap,Orange,Brown,Black,Red
+392,nft393.png,Background,Body,Tatto,Eye Patch,Orange,Brown,Black,Black
+393,nft394.png,Background,Body,Tatto,Three Hair,Orange,Brown,Black,Black
+394,nft395.png,Background,Body,Tatto,Wool Cap,Orange,Brown,Black,Brown
+395,nft396.png,Background,Body,Tatto,Wool Cap,Orange,Brown,Black,Pink
+396,nft397.png,Background,Old Suit,None,None,Orange,Light Brown,None,None
+397,nft398.png,Background,Old Suit,None,Cap,Orange,Light Brown,None,Red
+398,nft399.png,Background,Old Suit,None,Eye Patch,Orange,Light Brown,None,Black
+399,nft400.png,Background,Old Suit,None,Three Hair,Orange,Light Brown,None,Black
+400,nft401.png,Background,Old Suit,None,Wool Cap,Orange,Light Brown,None,Brown
+401,nft402.png,Background,Old Suit,None,Wool Cap,Orange,Light Brown,None,Pink
+402,nft403.png,Background,Old Suit,Bow tie,None,Orange,Light Brown,Red,None
+403,nft404.png,Background,Old Suit,Bow tie,Cap,Orange,Light Brown,Red,Red
+404,nft405.png,Background,Old Suit,Bow tie,Eye Patch,Orange,Light Brown,Red,Black
+405,nft406.png,Background,Old Suit,Bow tie,Three Hair,Orange,Light Brown,Red,Black
+408,nft409.png,Background,Old Suit,Distinctive,None,Orange,Light Brown,Gold,None
+409,nft410.png,Background,Old Suit,Distinctive,Cap,Orange,Light Brown,Gold,Red
+410,nft411.png,Background,Old Suit,Distinctive,Eye Patch,Orange,Light Brown,Gold,Black
+411,nft412.png,Background,Old Suit,Distinctive,Three Hair,Orange,Light Brown,Gold,Black
+412,nft413.png,Background,Old Suit,Distinctive,Wool Cap,Orange,Light Brown,Gold,Brown
+413,nft414.png,Background,Old Suit,Distinctive,Wool Cap,Orange,Light Brown,Gold,Pink
+414,nft415.png,Background,Old Suit,Necklace,None,Orange,Light Brown,Gold,None
+415,nft416.png,Background,Old Suit,Necklace,Cap,Orange,Light Brown,Gold,Red
+416,nft417.png,Background,Old Suit,Necklace,Eye Patch,Orange,Light Brown,Gold,Black
+417,nft418.png,Background,Old Suit,Necklace,Three Hair,Orange,Light Brown,Gold,Black
+418,nft419.png,Background,Old Suit,Necklace,Wool Cap,Orange,Light Brown,Gold,Brown
+419,nft420.png,Background,Old Suit,Necklace,Wool Cap,Orange,Light Brown,Gold,Pink
+420,nft421.png,Background,Old Suit,Scar,None,Orange,Light Brown,None,None
+421,nft422.png,Background,Old Suit,Scar,Cap,Orange,Light Brown,None,Red
+422,nft423.png,Background,Old Suit,Scar,Eye Patch,Orange,Light Brown,None,Black
+423,nft424.png,Background,Old Suit,Scar,Three Hair,Orange,Light Brown,None,Black
+424,nft425.png,Background,Old Suit,Scar,Wool Cap,Orange,Light Brown,None,Brown
+425,nft426.png,Background,Old Suit,Scar,Wool Cap,Orange,Light Brown,None,Pink
+426,nft427.png,Background,Old Suit,Tatto,None,Orange,Light Brown,Black,None
+427,nft428.png,Background,Old Suit,Tatto,Cap,Orange,Light Brown,Black,Red
+428,nft429.png,Background,Old Suit,Tatto,Eye Patch,Orange,Light Brown,Black,Black
+429,nft430.png,Background,Old Suit,Tatto,Three Hair,Orange,Light Brown,Black,Black
+430,nft431.png,Background,Old Suit,Tatto,Wool Cap,Orange,Light Brown,Black,Brown
+431,nft432.png,Background,Old Suit,Tatto,Wool Cap,Orange,Light Brown,Black,Pink
+432,nft433.png,Background,Suit,None,None,Orange,Black and white,None,None
+433,nft434.png,Background,Suit,None,Cap,Orange,Black and white,None,Red
+434,nft435.png,Background,Suit,None,Eye Patch,Orange,Black and white,None,Black
+435,nft436.png,Background,Suit,None,Three Hair,Orange,Black and white,None,Black
+436,nft437.png,Background,Suit,None,Wool Cap,Orange,Black and white,None,Brown
+437,nft438.png,Background,Suit,None,Wool Cap,Orange,Black and white,None,Pink
+438,nft439.png,Background,Suit,Bow tie,None,Orange,Black and white,Red,None
+441,nft442.png,Background,Suit,Bow tie,Three Hair,Orange,Black and white,Red,Black
+442,nft443.png,Background,Suit,Bow tie,Wool Cap,Orange,Black and white,Red,Brown
+443,nft444.png,Background,Suit,Bow tie,Wool Cap,Orange,Black and white,Red,Pink
+444,nft445.png,Background,Suit,Distinctive,None,Orange,Black and white,Gold,None
+445,nft446.png,Background,Suit,Distinctive,Cap,Orange,Black and white,Gold,Red
+446,nft447.png,Background,Suit,Distinctive,Eye Patch,Orange,Black and white,Gold,Black
+447,nft448.png,Background,Suit,Distinctive,Three Hair,Orange,Black and white,Gold,Black
+448,nft449.png,Background,Suit,Distinctive,Wool Cap,Orange,Black and white,Gold,Brown
+449,nft450.png,Background,Suit,Distinctive,Wool Cap,Orange,Black and white,Gold,Pink
+450,nft451.png,Background,Suit,Necklace,None,Orange,Black and white,Gold,None
+451,nft452.png,Background,Suit,Necklace,Cap,Orange,Black and white,Gold,Red
+452,nft453.png,Background,Suit,Necklace,Eye Patch,Orange,Black and white,Gold,Black
+453,nft454.png,Background,Suit,Necklace,Three Hair,Orange,Black and white,Gold,Black
+454,nft455.png,Background,Suit,Necklace,Wool Cap,Orange,Black and white,Gold,Brown
+455,nft456.png,Background,Suit,Necklace,Wool Cap,Orange,Black and white,Gold,Pink
+456,nft457.png,Background,Suit,Scar,None,Orange,Black and white,None,None
+457,nft458.png,Background,Suit,Scar,Cap,Orange,Black and white,None,Red
+458,nft459.png,Background,Suit,Scar,Eye Patch,Orange,Black and white,None,Black
+459,nft460.png,Background,Suit,Scar,Three Hair,Orange,Black and white,None,Black
+460,nft461.png,Background,Suit,Scar,Wool Cap,Orange,Black and white,None,Brown
+461,nft462.png,Background,Suit,Scar,Wool Cap,Orange,Black and white,None,Pink
+462,nft463.png,Background,Suit,Tatto,None,Orange,Black and white,Black,None
+463,nft464.png,Background,Suit,Tatto,Cap,Orange,Black and white,Black,Red
+464,nft465.png,Background,Suit,Tatto,Eye Patch,Orange,Black and white,Black,Black
+465,nft466.png,Background,Suit,Tatto,Three Hair,Orange,Black and white,Black,Black
+466,nft467.png,Background,Suit,Tatto,Wool Cap,Orange,Black and white,Black,Brown
+467,nft468.png,Background,Suit,Tatto,Wool Cap,Orange,Black and white,Black,Pink
+468,nft469.png,Background,Suit,None,None,Orange,Pink,None,None
+469,nft470.png,Background,Suit,None,Cap,Orange,Pink,None,Red
+470,nft471.png,Background,Suit,None,Eye Patch,Orange,Pink,None,Black
+471,nft472.png,Background,Suit,None,Three Hair,Orange,Pink,None,Black
+472,nft473.png,Background,Suit,None,Wool Cap,Orange,Pink,None,Brown
+473,nft474.png,Background,Suit,None,Wool Cap,Orange,Pink,None,Pink
+474,nft475.png,Background,Suit,Bow tie,None,Orange,Pink,Red,None
+476,nft477.png,Background,Suit,Bow tie,Eye Patch,Orange,Pink,Red,Black
+477,nft478.png,Background,Suit,Bow tie,Three Hair,Orange,Pink,Red,Black
+478,nft479.png,Background,Suit,Bow tie,Wool Cap,Orange,Pink,Red,Brown
+479,nft480.png,Background,Suit,Bow tie,Wool Cap,Orange,Pink,Red,Pink
+480,nft481.png,Background,Suit,Distinctive,None,Orange,Pink,Gold,None
+481,nft482.png,Background,Suit,Distinctive,Cap,Orange,Pink,Gold,Red
+482,nft483.png,Background,Suit,Distinctive,Eye Patch,Orange,Pink,Gold,Black
+483,nft484.png,Background,Suit,Distinctive,Three Hair,Orange,Pink,Gold,Black
+484,nft485.png,Background,Suit,Distinctive,Wool Cap,Orange,Pink,Gold,Brown
+485,nft486.png,Background,Suit,Distinctive,Wool Cap,Orange,Pink,Gold,Pink
+486,nft487.png,Background,Suit,Necklace,None,Orange,Pink,Gold,None
+487,nft488.png,Background,Suit,Necklace,Cap,Orange,Pink,Gold,Red
+488,nft489.png,Background,Suit,Necklace,Eye Patch,Orange,Pink,Gold,Black
+489,nft490.png,Background,Suit,Necklace,Three Hair,Orange,Pink,Gold,Black
+490,nft491.png,Background,Suit,Necklace,Wool Cap,Orange,Pink,Gold,Brown
+491,nft492.png,Background,Suit,Necklace,Wool Cap,Orange,Pink,Gold,Pink
+492,nft493.png,Background,Suit,Scar,None,Orange,Pink,None,None
+493,nft494.png,Background,Suit,Scar,Cap,Orange,Pink,None,Red
+494,nft495.png,Background,Suit,Scar,Eye Patch,Orange,Pink,None,Black
+495,nft496.png,Background,Suit,Scar,Three Hair,Orange,Pink,None,Black
+496,nft497.png,Background,Suit,Scar,Wool Cap,Orange,Pink,None,Brown
+497,nft498.png,Background,Suit,Scar,Wool Cap,Orange,Pink,None,Pink
+498,nft499.png,Background,Suit,Tatto,None,Orange,Pink,Black,None
+499,nft500.png,Background,Suit,Tatto,Cap,Orange,Pink,Black,Red
+500,nft501.png,Background,Suit,Tatto,Eye Patch,Orange,Pink,Black,Black
+501,nft502.png,Background,Suit,Tatto,Three Hair,Orange,Pink,Black,Black
+502,nft503.png,Background,Suit,Tatto,Wool Cap,Orange,Pink,Black,Brown
+503,nft504.png,Background,Suit,Tatto,Wool Cap,Orange,Pink,Black,Pink
+504,nft505.png,Background,Turtleneck Blouse,None,None,Orange,Black,None,None
+505,nft506.png,Background,Turtleneck Blouse,None,Cap,Orange,Black,None,Red
+506,nft507.png,Background,Turtleneck Blouse,None,Eye Patch,Orange,Black,None,Black
+507,nft508.png,Background,Turtleneck Blouse,None,Three Hair,Orange,Black,None,Black
+508,nft509.png,Background,Turtleneck Blouse,None,Wool Cap,Orange,Black,None,Brown
+509,nft510.png,Background,Turtleneck Blouse,None,Wool Cap,Orange,Black,None,Pink
+510,nft511.png,Background,Turtleneck Blouse,Bow tie,None,Orange,Black,Red,None
+514,nft515.png,Background,Turtleneck Blouse,Bow tie,Wool Cap,Orange,Black,Red,Brown
+515,nft516.png,Background,Turtleneck Blouse,Bow tie,Wool Cap,Orange,Black,Red,Pink
+516,nft517.png,Background,Turtleneck Blouse,Distinctive,None,Orange,Black,Gold,None
+517,nft518.png,Background,Turtleneck Blouse,Distinctive,Cap,Orange,Black,Gold,Red
+518,nft519.png,Background,Turtleneck Blouse,Distinctive,Eye Patch,Orange,Black,Gold,Black
+519,nft520.png,Background,Turtleneck Blouse,Distinctive,Three Hair,Orange,Black,Gold,Black
+520,nft521.png,Background,Turtleneck Blouse,Distinctive,Wool Cap,Orange,Black,Gold,Brown
+521,nft522.png,Background,Turtleneck Blouse,Distinctive,Wool Cap,Orange,Black,Gold,Pink
+522,nft523.png,Background,Turtleneck Blouse,Necklace,None,Orange,Black,Gold,None
+523,nft524.png,Background,Turtleneck Blouse,Necklace,Cap,Orange,Black,Gold,Red
+524,nft525.png,Background,Turtleneck Blouse,Necklace,Eye Patch,Orange,Black,Gold,Black
+525,nft526.png,Background,Turtleneck Blouse,Necklace,Three Hair,Orange,Black,Gold,Black
+526,nft527.png,Background,Turtleneck Blouse,Necklace,Wool Cap,Orange,Black,Gold,Brown
+527,nft528.png,Background,Turtleneck Blouse,Necklace,Wool Cap,Orange,Black,Gold,Pink
+528,nft529.png,Background,Turtleneck Blouse,Scar,None,Orange,Black,None,None
+529,nft530.png,Background,Turtleneck Blouse,Scar,Cap,Orange,Black,None,Red
+530,nft531.png,Background,Turtleneck Blouse,Scar,Eye Patch,Orange,Black,None,Black
+531,nft532.png,Background,Turtleneck Blouse,Scar,Three Hair,Orange,Black,None,Black
+532,nft533.png,Background,Turtleneck Blouse,Scar,Wool Cap,Orange,Black,None,Brown
+533,nft534.png,Background,Turtleneck Blouse,Scar,Wool Cap,Orange,Black,None,Pink
+534,nft535.png,Background,Turtleneck Blouse,Tatto,None,Orange,Black,Black,None
+535,nft536.png,Background,Turtleneck Blouse,Tatto,Cap,Orange,Black,Black,Red
+536,nft537.png,Background,Turtleneck Blouse,Tatto,Eye Patch,Orange,Black,Black,Black
+537,nft538.png,Background,Turtleneck Blouse,Tatto,Three Hair,Orange,Black,Black,Black
+538,nft539.png,Background,Turtleneck Blouse,Tatto,Wool Cap,Orange,Black,Black,Brown
+539,nft540.png,Background,Turtleneck Blouse,Tatto,Wool Cap,Orange,Black,Black,Pink
+540,nft541.png,Background,Body,None,None,Pink,Brown,None,None
+541,nft542.png,Background,Body,None,Cap,Pink,Brown,None,Red
+542,nft543.png,Background,Body,None,Eye Patch,Pink,Brown,None,Black
+543,nft544.png,Background,Body,None,Three Hair,Pink,Brown,None,Black
+544,nft545.png,Background,Body,None,Wool Cap,Pink,Brown,None,Brown
+545,nft546.png,Background,Body,None,Wool Cap,Pink,Brown,None,Pink
+548,nft549.png,Background,Body,Bow tie,Eye Patch,Pink,Brown,Red,Black
+549,nft550.png,Background,Body,Bow tie,Three Hair,Pink,Brown,Red,Black
+550,nft551.png,Background,Body,Bow tie,Wool Cap,Pink,Brown,Red,Brown
+551,nft552.png,Background,Body,Bow tie,Wool Cap,Pink,Brown,Red,Pink
+552,nft553.png,Background,Body,Distinctive,None,Pink,Brown,Gold,None
+553,nft554.png,Background,Body,Distinctive,Cap,Pink,Brown,Gold,Red
+554,nft555.png,Background,Body,Distinctive,Eye Patch,Pink,Brown,Gold,Black
+555,nft556.png,Background,Body,Distinctive,Three Hair,Pink,Brown,Gold,Black
+556,nft557.png,Background,Body,Distinctive,Wool Cap,Pink,Brown,Gold,Brown
+557,nft558.png,Background,Body,Distinctive,Wool Cap,Pink,Brown,Gold,Pink
+558,nft559.png,Background,Body,Necklace,None,Pink,Brown,Gold,None
+559,nft560.png,Background,Body,Necklace,Cap,Pink,Brown,Gold,Red
+560,nft561.png,Background,Body,Necklace,Eye Patch,Pink,Brown,Gold,Black
+561,nft562.png,Background,Body,Necklace,Three Hair,Pink,Brown,Gold,Black
+562,nft563.png,Background,Body,Necklace,Wool Cap,Pink,Brown,Gold,Brown
+563,nft564.png,Background,Body,Necklace,Wool Cap,Pink,Brown,Gold,Pink
+564,nft565.png,Background,Body,Scar,None,Pink,Brown,None,None
+565,nft566.png,Background,Body,Scar,Cap,Pink,Brown,None,Red
+566,nft567.png,Background,Body,Scar,Eye Patch,Pink,Brown,None,Black
+567,nft568.png,Background,Body,Scar,Three Hair,Pink,Brown,None,Black
+568,nft569.png,Background,Body,Scar,Wool Cap,Pink,Brown,None,Brown
+569,nft570.png,Background,Body,Scar,Wool Cap,Pink,Brown,None,Pink
+570,nft571.png,Background,Body,Tatto,None,Pink,Brown,Black,None
+571,nft572.png,Background,Body,Tatto,Cap,Pink,Brown,Black,Red
+572,nft573.png,Background,Body,Tatto,Eye Patch,Pink,Brown,Black,Black
+573,nft574.png,Background,Body,Tatto,Three Hair,Pink,Brown,Black,Black
+574,nft575.png,Background,Body,Tatto,Wool Cap,Pink,Brown,Black,Brown
+575,nft576.png,Background,Body,Tatto,Wool Cap,Pink,Brown,Black,Pink
+576,nft577.png,Background,Old Suit,None,None,Pink,Light Brown,None,None
+577,nft578.png,Background,Old Suit,None,Cap,Pink,Light Brown,None,Red
+578,nft579.png,Background,Old Suit,None,Eye Patch,Pink,Light Brown,None,Black
+579,nft580.png,Background,Old Suit,None,Three Hair,Pink,Light Brown,None,Black
+580,nft581.png,Background,Old Suit,None,Wool Cap,Pink,Light Brown,None,Brown
+581,nft582.png,Background,Old Suit,None,Wool Cap,Pink,Light Brown,None,Pink
+583,nft584.png,Background,Old Suit,Bow tie,Cap,Pink,Light Brown,Red,Red
+584,nft585.png,Background,Old Suit,Bow tie,Eye Patch,Pink,Light Brown,Red,Black
+587,nft588.png,Background,Old Suit,Bow tie,Wool Cap,Pink,Light Brown,Red,Pink
+588,nft589.png,Background,Old Suit,Distinctive,None,Pink,Light Brown,Gold,None
+589,nft590.png,Background,Old Suit,Distinctive,Cap,Pink,Light Brown,Gold,Red
+590,nft591.png,Background,Old Suit,Distinctive,Eye Patch,Pink,Light Brown,Gold,Black
+591,nft592.png,Background,Old Suit,Distinctive,Three Hair,Pink,Light Brown,Gold,Black
+592,nft593.png,Background,Old Suit,Distinctive,Wool Cap,Pink,Light Brown,Gold,Brown
+593,nft594.png,Background,Old Suit,Distinctive,Wool Cap,Pink,Light Brown,Gold,Pink
+594,nft595.png,Background,Old Suit,Necklace,None,Pink,Light Brown,Gold,None
+595,nft596.png,Background,Old Suit,Necklace,Cap,Pink,Light Brown,Gold,Red
+596,nft597.png,Background,Old Suit,Necklace,Eye Patch,Pink,Light Brown,Gold,Black
+597,nft598.png,Background,Old Suit,Necklace,Three Hair,Pink,Light Brown,Gold,Black
+598,nft599.png,Background,Old Suit,Necklace,Wool Cap,Pink,Light Brown,Gold,Brown
+599,nft600.png,Background,Old Suit,Necklace,Wool Cap,Pink,Light Brown,Gold,Pink
+600,nft601.png,Background,Old Suit,Scar,None,Pink,Light Brown,None,None
+601,nft602.png,Background,Old Suit,Scar,Cap,Pink,Light Brown,None,Red
+602,nft603.png,Background,Old Suit,Scar,Eye Patch,Pink,Light Brown,None,Black
+603,nft604.png,Background,Old Suit,Scar,Three Hair,Pink,Light Brown,None,Black
+604,nft605.png,Background,Old Suit,Scar,Wool Cap,Pink,Light Brown,None,Brown
+605,nft606.png,Background,Old Suit,Scar,Wool Cap,Pink,Light Brown,None,Pink
+606,nft607.png,Background,Old Suit,Tatto,None,Pink,Light Brown,Black,None
+607,nft608.png,Background,Old Suit,Tatto,Cap,Pink,Light Brown,Black,Red
+608,nft609.png,Background,Old Suit,Tatto,Eye Patch,Pink,Light Brown,Black,Black
+609,nft610.png,Background,Old Suit,Tatto,Three Hair,Pink,Light Brown,Black,Black
+610,nft611.png,Background,Old Suit,Tatto,Wool Cap,Pink,Light Brown,Black,Brown
+611,nft612.png,Background,Old Suit,Tatto,Wool Cap,Pink,Light Brown,Black,Pink
+612,nft613.png,Background,Suit,None,None,Pink,Black and white,None,None
+613,nft614.png,Background,Suit,None,Cap,Pink,Black and white,None,Red
+614,nft615.png,Background,Suit,None,Eye Patch,Pink,Black and white,None,Black
+615,nft616.png,Background,Suit,None,Three Hair,Pink,Black and white,None,Black
+616,nft617.png,Background,Suit,None,Wool Cap,Pink,Black and white,None,Brown
+617,nft618.png,Background,Suit,None,Wool Cap,Pink,Black and white,None,Pink
+618,nft619.png,Background,Suit,Bow tie,None,Pink,Black and white,Red,None
+620,nft621.png,Background,Suit,Bow tie,Eye Patch,Pink,Black and white,Red,Black
+621,nft622.png,Background,Suit,Bow tie,Three Hair,Pink,Black and white,Red,Black
+622,nft623.png,Background,Suit,Bow tie,Wool Cap,Pink,Black and white,Red,Brown
+623,nft624.png,Background,Suit,Bow tie,Wool Cap,Pink,Black and white,Red,Pink
+624,nft625.png,Background,Suit,Distinctive,None,Pink,Black and white,Gold,None
+625,nft626.png,Background,Suit,Distinctive,Cap,Pink,Black and white,Gold,Red
+626,nft627.png,Background,Suit,Distinctive,Eye Patch,Pink,Black and white,Gold,Black
+627,nft628.png,Background,Suit,Distinctive,Three Hair,Pink,Black and white,Gold,Black
+628,nft629.png,Background,Suit,Distinctive,Wool Cap,Pink,Black and white,Gold,Brown
+629,nft630.png,Background,Suit,Distinctive,Wool Cap,Pink,Black and white,Gold,Pink
+630,nft631.png,Background,Suit,Necklace,None,Pink,Black and white,Gold,None
+631,nft632.png,Background,Suit,Necklace,Cap,Pink,Black and white,Gold,Red
+632,nft633.png,Background,Suit,Necklace,Eye Patch,Pink,Black and white,Gold,Black
+633,nft634.png,Background,Suit,Necklace,Three Hair,Pink,Black and white,Gold,Black
+634,nft635.png,Background,Suit,Necklace,Wool Cap,Pink,Black and white,Gold,Brown
+635,nft636.png,Background,Suit,Necklace,Wool Cap,Pink,Black and white,Gold,Pink
+636,nft637.png,Background,Suit,Scar,None,Pink,Black and white,None,None
+637,nft638.png,Background,Suit,Scar,Cap,Pink,Black and white,None,Red
+638,nft639.png,Background,Suit,Scar,Eye Patch,Pink,Black and white,None,Black
+639,nft640.png,Background,Suit,Scar,Three Hair,Pink,Black and white,None,Black
+640,nft641.png,Background,Suit,Scar,Wool Cap,Pink,Black and white,None,Brown
+641,nft642.png,Background,Suit,Scar,Wool Cap,Pink,Black and white,None,Pink
+642,nft643.png,Background,Suit,Tatto,None,Pink,Black and white,Black,None
+643,nft644.png,Background,Suit,Tatto,Cap,Pink,Black and white,Black,Red
+644,nft645.png,Background,Suit,Tatto,Eye Patch,Pink,Black and white,Black,Black
+645,nft646.png,Background,Suit,Tatto,Three Hair,Pink,Black and white,Black,Black
+646,nft647.png,Background,Suit,Tatto,Wool Cap,Pink,Black and white,Black,Brown
+647,nft648.png,Background,Suit,Tatto,Wool Cap,Pink,Black and white,Black,Pink
+648,nft649.png,Background,Suit,None,None,Pink,Pink,None,None
+649,nft650.png,Background,Suit,None,Cap,Pink,Pink,None,Red
+650,nft651.png,Background,Suit,None,Eye Patch,Pink,Pink,None,Black
+651,nft652.png,Background,Suit,None,Three Hair,Pink,Pink,None,Black
+652,nft653.png,Background,Suit,None,Wool Cap,Pink,Pink,None,Brown
+653,nft654.png,Background,Suit,None,Wool Cap,Pink,Pink,None,Pink
+655,nft656.png,Background,Suit,Bow tie,Cap,Pink,Pink,Red,Red
+657,nft658.png,Background,Suit,Bow tie,Three Hair,Pink,Pink,Red,Black
+658,nft659.png,Background,Suit,Bow tie,Wool Cap,Pink,Pink,Red,Brown
+660,nft661.png,Background,Suit,Distinctive,None,Pink,Pink,Gold,None
+661,nft662.png,Background,Suit,Distinctive,Cap,Pink,Pink,Gold,Red
+662,nft663.png,Background,Suit,Distinctive,Eye Patch,Pink,Pink,Gold,Black
+663,nft664.png,Background,Suit,Distinctive,Three Hair,Pink,Pink,Gold,Black
+664,nft665.png,Background,Suit,Distinctive,Wool Cap,Pink,Pink,Gold,Brown
+665,nft666.png,Background,Suit,Distinctive,Wool Cap,Pink,Pink,Gold,Pink
+666,nft667.png,Background,Suit,Necklace,None,Pink,Pink,Gold,None
+667,nft668.png,Background,Suit,Necklace,Cap,Pink,Pink,Gold,Red
+668,nft669.png,Background,Suit,Necklace,Eye Patch,Pink,Pink,Gold,Black
+669,nft670.png,Background,Suit,Necklace,Three Hair,Pink,Pink,Gold,Black
+670,nft671.png,Background,Suit,Necklace,Wool Cap,Pink,Pink,Gold,Brown
+671,nft672.png,Background,Suit,Necklace,Wool Cap,Pink,Pink,Gold,Pink
+672,nft673.png,Background,Suit,Scar,None,Pink,Pink,None,None
+673,nft674.png,Background,Suit,Scar,Cap,Pink,Pink,None,Red
+674,nft675.png,Background,Suit,Scar,Eye Patch,Pink,Pink,None,Black
+675,nft676.png,Background,Suit,Scar,Three Hair,Pink,Pink,None,Black
+676,nft677.png,Background,Suit,Scar,Wool Cap,Pink,Pink,None,Brown
+677,nft678.png,Background,Suit,Scar,Wool Cap,Pink,Pink,None,Pink
+678,nft679.png,Background,Suit,Tatto,None,Pink,Pink,Black,None
+679,nft680.png,Background,Suit,Tatto,Cap,Pink,Pink,Black,Red
+680,nft681.png,Background,Suit,Tatto,Eye Patch,Pink,Pink,Black,Black
+681,nft682.png,Background,Suit,Tatto,Three Hair,Pink,Pink,Black,Black
+682,nft683.png,Background,Suit,Tatto,Wool Cap,Pink,Pink,Black,Brown
+683,nft684.png,Background,Suit,Tatto,Wool Cap,Pink,Pink,Black,Pink
+684,nft685.png,Background,Turtleneck Blouse,None,None,Pink,Black,None,None
+685,nft686.png,Background,Turtleneck Blouse,None,Cap,Pink,Black,None,Red
+686,nft687.png,Background,Turtleneck Blouse,None,Eye Patch,Pink,Black,None,Black
+687,nft688.png,Background,Turtleneck Blouse,None,Three Hair,Pink,Black,None,Black
+688,nft689.png,Background,Turtleneck Blouse,None,Wool Cap,Pink,Black,None,Brown
+689,nft690.png,Background,Turtleneck Blouse,None,Wool Cap,Pink,Black,None,Pink
+691,nft692.png,Background,Turtleneck Blouse,Bow tie,Cap,Pink,Black,Red,Red
+693,nft694.png,Background,Turtleneck Blouse,Bow tie,Three Hair,Pink,Black,Red,Black
+696,nft697.png,Background,Turtleneck Blouse,Distinctive,None,Pink,Black,Gold,None
+697,nft698.png,Background,Turtleneck Blouse,Distinctive,Cap,Pink,Black,Gold,Red
+698,nft699.png,Background,Turtleneck Blouse,Distinctive,Eye Patch,Pink,Black,Gold,Black
+699,nft700.png,Background,Turtleneck Blouse,Distinctive,Three Hair,Pink,Black,Gold,Black
+700,nft701.png,Background,Turtleneck Blouse,Distinctive,Wool Cap,Pink,Black,Gold,Brown
+701,nft702.png,Background,Turtleneck Blouse,Distinctive,Wool Cap,Pink,Black,Gold,Pink
+702,nft703.png,Background,Turtleneck Blouse,Necklace,None,Pink,Black,Gold,None
+703,nft704.png,Background,Turtleneck Blouse,Necklace,Cap,Pink,Black,Gold,Red
+704,nft705.png,Background,Turtleneck Blouse,Necklace,Eye Patch,Pink,Black,Gold,Black
+705,nft706.png,Background,Turtleneck Blouse,Necklace,Three Hair,Pink,Black,Gold,Black
+706,nft707.png,Background,Turtleneck Blouse,Necklace,Wool Cap,Pink,Black,Gold,Brown
+707,nft708.png,Background,Turtleneck Blouse,Necklace,Wool Cap,Pink,Black,Gold,Pink
+708,nft709.png,Background,Turtleneck Blouse,Scar,None,Pink,Black,None,None
+709,nft710.png,Background,Turtleneck Blouse,Scar,Cap,Pink,Black,None,Red
+710,nft711.png,Background,Turtleneck Blouse,Scar,Eye Patch,Pink,Black,None,Black
+711,nft712.png,Background,Turtleneck Blouse,Scar,Three Hair,Pink,Black,None,Black
+712,nft713.png,Background,Turtleneck Blouse,Scar,Wool Cap,Pink,Black,None,Brown
+713,nft714.png,Background,Turtleneck Blouse,Scar,Wool Cap,Pink,Black,None,Pink
+714,nft715.png,Background,Turtleneck Blouse,Tatto,None,Pink,Black,Black,None
+715,nft716.png,Background,Turtleneck Blouse,Tatto,Cap,Pink,Black,Black,Red
+716,nft717.png,Background,Turtleneck Blouse,Tatto,Eye Patch,Pink,Black,Black,Black
+717,nft718.png,Background,Turtleneck Blouse,Tatto,Three Hair,Pink,Black,Black,Black
+718,nft719.png,Background,Turtleneck Blouse,Tatto,Wool Cap,Pink,Black,Black,Brown
+719,nft720.png,Background,Turtleneck Blouse,Tatto,Wool Cap,Pink,Black,Black,Pink
+720,nft721.png,Background,Body,None,None,Yellow,Brown,None,None
+721,nft722.png,Background,Body,None,Cap,Yellow,Brown,None,Red
+722,nft723.png,Background,Body,None,Eye Patch,Yellow,Brown,None,Black
+723,nft724.png,Background,Body,None,Three Hair,Yellow,Brown,None,Black
+724,nft725.png,Background,Body,None,Wool Cap,Yellow,Brown,None,Brown
+725,nft726.png,Background,Body,None,Wool Cap,Yellow,Brown,None,Pink
+726,nft727.png,Background,Body,Bow tie,None,Yellow,Brown,Red,None
+727,nft728.png,Background,Body,Bow tie,Cap,Yellow,Brown,Red,Red
+729,nft730.png,Background,Body,Bow tie,Three Hair,Yellow,Brown,Red,Black
+730,nft731.png,Background,Body,Bow tie,Wool Cap,Yellow,Brown,Red,Brown
+731,nft732.png,Background,Body,Bow tie,Wool Cap,Yellow,Brown,Red,Pink
+732,nft733.png,Background,Body,Distinctive,None,Yellow,Brown,Gold,None
+733,nft734.png,Background,Body,Distinctive,Cap,Yellow,Brown,Gold,Red
+734,nft735.png,Background,Body,Distinctive,Eye Patch,Yellow,Brown,Gold,Black
+735,nft736.png,Background,Body,Distinctive,Three Hair,Yellow,Brown,Gold,Black
+736,nft737.png,Background,Body,Distinctive,Wool Cap,Yellow,Brown,Gold,Brown
+737,nft738.png,Background,Body,Distinctive,Wool Cap,Yellow,Brown,Gold,Pink
+738,nft739.png,Background,Body,Necklace,None,Yellow,Brown,Gold,None
+739,nft740.png,Background,Body,Necklace,Cap,Yellow,Brown,Gold,Red
+740,nft741.png,Background,Body,Necklace,Eye Patch,Yellow,Brown,Gold,Black
+741,nft742.png,Background,Body,Necklace,Three Hair,Yellow,Brown,Gold,Black
+742,nft743.png,Background,Body,Necklace,Wool Cap,Yellow,Brown,Gold,Brown
+743,nft744.png,Background,Body,Necklace,Wool Cap,Yellow,Brown,Gold,Pink
+744,nft745.png,Background,Body,Scar,None,Yellow,Brown,None,None
+745,nft746.png,Background,Body,Scar,Cap,Yellow,Brown,None,Red
+746,nft747.png,Background,Body,Scar,Eye Patch,Yellow,Brown,None,Black
+747,nft748.png,Background,Body,Scar,Three Hair,Yellow,Brown,None,Black
+748,nft749.png,Background,Body,Scar,Wool Cap,Yellow,Brown,None,Brown
+749,nft750.png,Background,Body,Scar,Wool Cap,Yellow,Brown,None,Pink
+750,nft751.png,Background,Body,Tatto,None,Yellow,Brown,Black,None
+751,nft752.png,Background,Body,Tatto,Cap,Yellow,Brown,Black,Red
+752,nft753.png,Background,Body,Tatto,Eye Patch,Yellow,Brown,Black,Black
+753,nft754.png,Background,Body,Tatto,Three Hair,Yellow,Brown,Black,Black
+754,nft755.png,Background,Body,Tatto,Wool Cap,Yellow,Brown,Black,Brown
+755,nft756.png,Background,Body,Tatto,Wool Cap,Yellow,Brown,Black,Pink
+756,nft757.png,Background,Old Suit,None,None,Yellow,Light Brown,None,None
+757,nft758.png,Background,Old Suit,None,Cap,Yellow,Light Brown,None,Red
+758,nft759.png,Background,Old Suit,None,Eye Patch,Yellow,Light Brown,None,Black
+759,nft760.png,Background,Old Suit,None,Three Hair,Yellow,Light Brown,None,Black
+760,nft761.png,Background,Old Suit,None,Wool Cap,Yellow,Light Brown,None,Brown
+761,nft762.png,Background,Old Suit,None,Wool Cap,Yellow,Light Brown,None,Pink
+762,nft763.png,Background,Old Suit,Bow tie,None,Yellow,Light Brown,Red,None
+763,nft764.png,Background,Old Suit,Bow tie,Cap,Yellow,Light Brown,Red,Red
+764,nft765.png,Background,Old Suit,Bow tie,Eye Patch,Yellow,Light Brown,Red,Black
+765,nft766.png,Background,Old Suit,Bow tie,Three Hair,Yellow,Light Brown,Red,Black
+766,nft767.png,Background,Old Suit,Bow tie,Wool Cap,Yellow,Light Brown,Red,Brown
+767,nft768.png,Background,Old Suit,Bow tie,Wool Cap,Yellow,Light Brown,Red,Pink
+768,nft769.png,Background,Old Suit,Distinctive,None,Yellow,Light Brown,Gold,None
+769,nft770.png,Background,Old Suit,Distinctive,Cap,Yellow,Light Brown,Gold,Red
+770,nft771.png,Background,Old Suit,Distinctive,Eye Patch,Yellow,Light Brown,Gold,Black
+771,nft772.png,Background,Old Suit,Distinctive,Three Hair,Yellow,Light Brown,Gold,Black
+772,nft773.png,Background,Old Suit,Distinctive,Wool Cap,Yellow,Light Brown,Gold,Brown
+773,nft774.png,Background,Old Suit,Distinctive,Wool Cap,Yellow,Light Brown,Gold,Pink
+774,nft775.png,Background,Old Suit,Necklace,None,Yellow,Light Brown,Gold,None
+775,nft776.png,Background,Old Suit,Necklace,Cap,Yellow,Light Brown,Gold,Red
+776,nft777.png,Background,Old Suit,Necklace,Eye Patch,Yellow,Light Brown,Gold,Black
+777,nft778.png,Background,Old Suit,Necklace,Three Hair,Yellow,Light Brown,Gold,Black
+778,nft779.png,Background,Old Suit,Necklace,Wool Cap,Yellow,Light Brown,Gold,Brown
+779,nft780.png,Background,Old Suit,Necklace,Wool Cap,Yellow,Light Brown,Gold,Pink
+780,nft781.png,Background,Old Suit,Scar,None,Yellow,Light Brown,None,None
+781,nft782.png,Background,Old Suit,Scar,Cap,Yellow,Light Brown,None,Red
+782,nft783.png,Background,Old Suit,Scar,Eye Patch,Yellow,Light Brown,None,Black
+783,nft784.png,Background,Old Suit,Scar,Three Hair,Yellow,Light Brown,None,Black
+784,nft785.png,Background,Old Suit,Scar,Wool Cap,Yellow,Light Brown,None,Brown
+785,nft786.png,Background,Old Suit,Scar,Wool Cap,Yellow,Light Brown,None,Pink
+786,nft787.png,Background,Old Suit,Tatto,None,Yellow,Light Brown,Black,None
+787,nft788.png,Background,Old Suit,Tatto,Cap,Yellow,Light Brown,Black,Red
+788,nft789.png,Background,Old Suit,Tatto,Eye Patch,Yellow,Light Brown,Black,Black
+789,nft790.png,Background,Old Suit,Tatto,Three Hair,Yellow,Light Brown,Black,Black
+790,nft791.png,Background,Old Suit,Tatto,Wool Cap,Yellow,Light Brown,Black,Brown
+791,nft792.png,Background,Old Suit,Tatto,Wool Cap,Yellow,Light Brown,Black,Pink
+792,nft793.png,Background,Suit,None,None,Yellow,Black and white,None,None
+793,nft794.png,Background,Suit,None,Cap,Yellow,Black and white,None,Red
+794,nft795.png,Background,Suit,None,Eye Patch,Yellow,Black and white,None,Black
+795,nft796.png,Background,Suit,None,Three Hair,Yellow,Black and white,None,Black
+796,nft797.png,Background,Suit,None,Wool Cap,Yellow,Black and white,None,Brown
+797,nft798.png,Background,Suit,None,Wool Cap,Yellow,Black and white,None,Pink
+798,nft799.png,Background,Suit,Bow tie,None,Yellow,Black and white,Red,None
+799,nft800.png,Background,Suit,Bow tie,Cap,Yellow,Black and white,Red,Red
+800,nft801.png,Background,Suit,Bow tie,Eye Patch,Yellow,Black and white,Red,Black
+803,nft804.png,Background,Suit,Bow tie,Wool Cap,Yellow,Black and white,Red,Pink
+804,nft805.png,Background,Suit,Distinctive,None,Yellow,Black and white,Gold,None
+805,nft806.png,Background,Suit,Distinctive,Cap,Yellow,Black and white,Gold,Red
+806,nft807.png,Background,Suit,Distinctive,Eye Patch,Yellow,Black and white,Gold,Black
+807,nft808.png,Background,Suit,Distinctive,Three Hair,Yellow,Black and white,Gold,Black
+808,nft809.png,Background,Suit,Distinctive,Wool Cap,Yellow,Black and white,Gold,Brown
+809,nft810.png,Background,Suit,Distinctive,Wool Cap,Yellow,Black and white,Gold,Pink
+810,nft811.png,Background,Suit,Necklace,None,Yellow,Black and white,Gold,None
+811,nft812.png,Background,Suit,Necklace,Cap,Yellow,Black and white,Gold,Red
+812,nft813.png,Background,Suit,Necklace,Eye Patch,Yellow,Black and white,Gold,Black
+813,nft814.png,Background,Suit,Necklace,Three Hair,Yellow,Black and white,Gold,Black
+814,nft815.png,Background,Suit,Necklace,Wool Cap,Yellow,Black and white,Gold,Brown
+815,nft816.png,Background,Suit,Necklace,Wool Cap,Yellow,Black and white,Gold,Pink
+816,nft817.png,Background,Suit,Scar,None,Yellow,Black and white,None,None
+817,nft818.png,Background,Suit,Scar,Cap,Yellow,Black and white,None,Red
+818,nft819.png,Background,Suit,Scar,Eye Patch,Yellow,Black and white,None,Black
+819,nft820.png,Background,Suit,Scar,Three Hair,Yellow,Black and white,None,Black
+820,nft821.png,Background,Suit,Scar,Wool Cap,Yellow,Black and white,None,Brown
+821,nft822.png,Background,Suit,Scar,Wool Cap,Yellow,Black and white,None,Pink
+822,nft823.png,Background,Suit,Tatto,None,Yellow,Black and white,Black,None
+823,nft824.png,Background,Suit,Tatto,Cap,Yellow,Black and white,Black,Red
+824,nft825.png,Background,Suit,Tatto,Eye Patch,Yellow,Black and white,Black,Black
+825,nft826.png,Background,Suit,Tatto,Three Hair,Yellow,Black and white,Black,Black
+826,nft827.png,Background,Suit,Tatto,Wool Cap,Yellow,Black and white,Black,Brown
+827,nft828.png,Background,Suit,Tatto,Wool Cap,Yellow,Black and white,Black,Pink
+828,nft829.png,Background,Suit,None,None,Yellow,Pink,None,None
+829,nft830.png,Background,Suit,None,Cap,Yellow,Pink,None,Red
+830,nft831.png,Background,Suit,None,Eye Patch,Yellow,Pink,None,Black
+831,nft832.png,Background,Suit,None,Three Hair,Yellow,Pink,None,Black
+832,nft833.png,Background,Suit,None,Wool Cap,Yellow,Pink,None,Brown
+833,nft834.png,Background,Suit,None,Wool Cap,Yellow,Pink,None,Pink
+834,nft835.png,Background,Suit,Bow tie,None,Yellow,Pink,Red,None
+835,nft836.png,Background,Suit,Bow tie,Cap,Yellow,Pink,Red,Red
+836,nft837.png,Background,Suit,Bow tie,Eye Patch,Yellow,Pink,Red,Black
+837,nft838.png,Background,Suit,Bow tie,Three Hair,Yellow,Pink,Red,Black
+838,nft839.png,Background,Suit,Bow tie,Wool Cap,Yellow,Pink,Red,Brown
+839,nft840.png,Background,Suit,Bow tie,Wool Cap,Yellow,Pink,Red,Pink
+840,nft841.png,Background,Suit,Distinctive,None,Yellow,Pink,Gold,None
+841,nft842.png,Background,Suit,Distinctive,Cap,Yellow,Pink,Gold,Red
+842,nft843.png,Background,Suit,Distinctive,Eye Patch,Yellow,Pink,Gold,Black
+843,nft844.png,Background,Suit,Distinctive,Three Hair,Yellow,Pink,Gold,Black
+844,nft845.png,Background,Suit,Distinctive,Wool Cap,Yellow,Pink,Gold,Brown
+845,nft846.png,Background,Suit,Distinctive,Wool Cap,Yellow,Pink,Gold,Pink
+846,nft847.png,Background,Suit,Necklace,None,Yellow,Pink,Gold,None
+847,nft848.png,Background,Suit,Necklace,Cap,Yellow,Pink,Gold,Red
+848,nft849.png,Background,Suit,Necklace,Eye Patch,Yellow,Pink,Gold,Black
+849,nft850.png,Background,Suit,Necklace,Three Hair,Yellow,Pink,Gold,Black
+850,nft851.png,Background,Suit,Necklace,Wool Cap,Yellow,Pink,Gold,Brown
+851,nft852.png,Background,Suit,Necklace,Wool Cap,Yellow,Pink,Gold,Pink
+852,nft853.png,Background,Suit,Scar,None,Yellow,Pink,None,None
+853,nft854.png,Background,Suit,Scar,Cap,Yellow,Pink,None,Red
+854,nft855.png,Background,Suit,Scar,Eye Patch,Yellow,Pink,None,Black
+855,nft856.png,Background,Suit,Scar,Three Hair,Yellow,Pink,None,Black
+856,nft857.png,Background,Suit,Scar,Wool Cap,Yellow,Pink,None,Brown
+857,nft858.png,Background,Suit,Scar,Wool Cap,Yellow,Pink,None,Pink
+858,nft859.png,Background,Suit,Tatto,None,Yellow,Pink,Black,None
+859,nft860.png,Background,Suit,Tatto,Cap,Yellow,Pink,Black,Red
+860,nft861.png,Background,Suit,Tatto,Eye Patch,Yellow,Pink,Black,Black
+861,nft862.png,Background,Suit,Tatto,Three Hair,Yellow,Pink,Black,Black
+862,nft863.png,Background,Suit,Tatto,Wool Cap,Yellow,Pink,Black,Brown
+863,nft864.png,Background,Suit,Tatto,Wool Cap,Yellow,Pink,Black,Pink
+864,nft865.png,Background,Turtleneck Blouse,None,None,Yellow,Black,None,None
+865,nft866.png,Background,Turtleneck Blouse,None,Cap,Yellow,Black,None,Red
+866,nft867.png,Background,Turtleneck Blouse,None,Eye Patch,Yellow,Black,None,Black
+867,nft868.png,Background,Turtleneck Blouse,None,Three Hair,Yellow,Black,None,Black
+868,nft869.png,Background,Turtleneck Blouse,None,Wool Cap,Yellow,Black,None,Brown
+869,nft870.png,Background,Turtleneck Blouse,None,Wool Cap,Yellow,Black,None,Pink
+870,nft871.png,Background,Turtleneck Blouse,Bow tie,None,Yellow,Black,Red,None
+871,nft872.png,Background,Turtleneck Blouse,Bow tie,Cap,Yellow,Black,Red,Red
+872,nft873.png,Background,Turtleneck Blouse,Bow tie,Eye Patch,Yellow,Black,Red,Black
+875,nft876.png,Background,Turtleneck Blouse,Bow tie,Wool Cap,Yellow,Black,Red,Pink
+876,nft877.png,Background,Turtleneck Blouse,Distinctive,None,Yellow,Black,Gold,None
+877,nft878.png,Background,Turtleneck Blouse,Distinctive,Cap,Yellow,Black,Gold,Red
+878,nft879.png,Background,Turtleneck Blouse,Distinctive,Eye Patch,Yellow,Black,Gold,Black
+879,nft880.png,Background,Turtleneck Blouse,Distinctive,Three Hair,Yellow,Black,Gold,Black
+880,nft881.png,Background,Turtleneck Blouse,Distinctive,Wool Cap,Yellow,Black,Gold,Brown
+881,nft882.png,Background,Turtleneck Blouse,Distinctive,Wool Cap,Yellow,Black,Gold,Pink
+882,nft883.png,Background,Turtleneck Blouse,Necklace,None,Yellow,Black,Gold,None
+883,nft884.png,Background,Turtleneck Blouse,Necklace,Cap,Yellow,Black,Gold,Red
+884,nft885.png,Background,Turtleneck Blouse,Necklace,Eye Patch,Yellow,Black,Gold,Black
+885,nft886.png,Background,Turtleneck Blouse,Necklace,Three Hair,Yellow,Black,Gold,Black
+886,nft887.png,Background,Turtleneck Blouse,Necklace,Wool Cap,Yellow,Black,Gold,Brown
+887,nft888.png,Background,Turtleneck Blouse,Necklace,Wool Cap,Yellow,Black,Gold,Pink
+888,nft889.png,Background,Turtleneck Blouse,Scar,None,Yellow,Black,None,None
+889,nft890.png,Background,Turtleneck Blouse,Scar,Cap,Yellow,Black,None,Red
+890,nft891.png,Background,Turtleneck Blouse,Scar,Eye Patch,Yellow,Black,None,Black
+891,nft892.png,Background,Turtleneck Blouse,Scar,Three Hair,Yellow,Black,None,Black
+892,nft893.png,Background,Turtleneck Blouse,Scar,Wool Cap,Yellow,Black,None,Brown
+893,nft894.png,Background,Turtleneck Blouse,Scar,Wool Cap,Yellow,Black,None,Pink
+894,nft895.png,Background,Turtleneck Blouse,Tatto,None,Yellow,Black,Black,None
+895,nft896.png,Background,Turtleneck Blouse,Tatto,Cap,Yellow,Black,Black,Red
+896,nft897.png,Background,Turtleneck Blouse,Tatto,Eye Patch,Yellow,Black,Black,Black
+897,nft898.png,Background,Turtleneck Blouse,Tatto,Three Hair,Yellow,Black,Black,Black
+898,nft899.png,Background,Turtleneck Blouse,Tatto,Wool Cap,Yellow,Black,Black,Brown
+899,nft900.png,Background,Turtleneck Blouse,Tatto,Wool Cap,Yellow,Black,Black,Pink
