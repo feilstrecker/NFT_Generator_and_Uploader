@@ -10,9 +10,9 @@ On this option, you can generate the nfts with the images
 Before, you need save the images in this type:
 Item_Name-Item_Color
 for example:
-I have a background blue
+I have a background blue: 
 Background-Blue
-I have an Old suit black and white
+I have an Old suit black and white: 
 Old_suit-Black_and_White
 (It will help the upload on properties more later)
 ------------------------------------
