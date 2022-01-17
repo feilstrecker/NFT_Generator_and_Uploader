@@ -26,14 +26,21 @@ class NFT_generator():
         self.Resize_img()        
         # Clean dataframe
         self.Clean_dataframe()
-        # Get the filenames
+        # List of paths
         elements = ['Backgrounds', 'Bodies', 'Acessories', 'Hats']
 
+        """
+        In lists of acessories and hats, need the 'none' to use the none.png
+        To generate nfts without acessories and hats
+        
+        """
+        # List to filenames
         self.background_img_name = []
         self.body_img_name = []
         self.acessory_img_name = ['None']
         self.hat_img_name = ['None']
 
+        # Get filenames
         for element in elements:
             path, dirs, files = next(os.walk(f"items\\{element}"))
 
@@ -46,12 +53,13 @@ class NFT_generator():
             elif element == 'Hats':
                 self.hat_img_name = files
 
+        # Set amount of the backgrounds, bodies, acessories and hats
         self.background_amount =  len(self.background_img_name)
         self.body_amount = len(self.body_img_name)
         self.acessory_amount = len(self.acessory_img_name)
         self.hat_amount = len(self.hat_img_name)
 
-        # Lists to add informations into Properties on upload
+        # Lists to add informations in dataframe to put on Properties on upload
         self.background_name = []
         self.body_name = []
         self.acessory_name = ['None']
@@ -63,7 +71,7 @@ class NFT_generator():
         self.hat_color = ['None']
         
         #         ---------------- Load the informations of itens ----------------
-
+        # Clean the Item_Name-Item_Color.png to dataframe
         # Backgrounds
         for filename in self.background_img_name:
             self.img_name = filename
@@ -157,7 +165,7 @@ class NFT_generator():
         # Total nfts Available
         self.total_nfts = self.background_amount * self.body_amount * (self.acessory_amount+1) * (self.hat_amount+1)
                 
-        #             ---------------- Put itens in lists with PIL lib ----------------
+        #             ---------------- Put items in lists with PIL lib ----------------
         # Backgrounds
         for filename in self.background_img_name:
             self.backgrounds.append(Image.open(f'items\\Backgrounds\\{filename}'))
@@ -179,19 +187,20 @@ class NFT_generator():
 
     def Find_indexes_with_item(self, item_name, item_color):
         # Find indexes of nfts with the called item
-
         df = pd.read_csv('Nft_information.csv', index_col=0)
         item_types = ['background', 'body', 'acessory', 'hat']
 
         for item_type in item_types:
-
+            # Get the item type with it name
             get_item_type = df[df[item_type] == item_name].index.tolist()
             if get_item_type:
+                # Get all indexes of nfts with the item
                 inf = df[(df[item_type] == item_name) & (df[f'{item_type}_color'] == item_color)]
                 indexes = inf.index.tolist()
+
                 if indexes:
                     return indexes
-        return None
+        return print('Item not found.')
 
     def Clean_dataframe(self):
         # Clean the dataframe to new data
@@ -210,6 +219,7 @@ class NFT_generator():
         self.Save_modifications()
 
     def Resize_img(self):
+        # The code need the none.png to make nfts without acessories and hats
         # Resize 'none.png' to same size of items to don't generate any errors on contenate imgs
         path, dirs, files = next(os.walk("items\\Backgrounds"))
 
@@ -230,11 +240,12 @@ class NFT_generator():
         self.indexes = self.Find_indexes_with_item(item_name, item_color)
 
         if self.indexes:
-            # Random remove
+            # Random remove nft with the item
             print("type 'cancel' to cancel")
             self.percentage = (len(self.indexes)/self.total_nfts) * 100
             print(f"have ({len(self.indexes)}/{self.total_nfts})[{self.percentage:.2f}%] nfts with this item.")
             self.amount = (input((f'how many you want remove?\n')))
+
             if self.amount == 'cancel':
                 os.system('cls')
                 return
@@ -243,7 +254,6 @@ class NFT_generator():
             elif len(self.indexes) == 0:
                 return print("don't have nfts with this item")
 
-            
             for i in range(0, int(self.amount)):
                 self.counter = 0
                 self.choice = random.choice(self.indexes)
@@ -274,15 +284,18 @@ class NFT_generator():
             path, dirs, files = next(os.walk(f"items\\{element}"))
 
             for file in files:
+                # Get the item name and it color
                 file = file.replace('.png', '')
                 file = file.split('-')
                 self.item_name = file[0].replace('_', ' ')
                 self.item_color = file[1].replace('_', ' ')
-                item_indexes = self.Find_indexes_with_item(self.item_name, self.item_color)
-                
-                if item_indexes and self.total_nfts > 0:
-                    self.percentage = (len(item_indexes) / self.total_nfts) * 100
 
+                # Find indexes with it
+                item_indexes = self.Find_indexes_with_item(self.item_name, self.item_color)
+                if item_indexes and self.total_nfts > 0:
+
+                    # Print it percentage
+                    self.percentage = (len(item_indexes) / self.total_nfts) * 100
                     sleep(0.2)
                     print(f"[{self.percentage:.2f}%] {self.item_name} - {self.item_color}")
                     print('----------------------------------------')
@@ -382,5 +395,3 @@ class NFT_generator():
                 self.counter_body += 1
             self.counter_background +=1
         print('<<-- Done -->>')
-
-p1 = NFT_generator()

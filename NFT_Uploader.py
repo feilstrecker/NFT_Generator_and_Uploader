@@ -1,3 +1,4 @@
+# Imports
 import pyautogui
 import os
 import pandas as pd
