@@ -3,6 +3,9 @@ import pandas as pd
 import os
 import random
 from time import sleep
+from PIL import ImageFile
+
+ImageFile.LOAD_TRUNCATED_IMAGES = True
 
 class NFT_generator():
 
@@ -21,11 +24,11 @@ class NFT_generator():
         self.acessories.append(Image.open('none.png'))
         self.hats.append(Image.open('none.png'))
 
-    def Load(self):
+    def load(self):
         # Resize the none.png to concatenate nfts more later
-        self.Resize_img()        
+        self.resize_img()        
         # Clean dataframe
-        self.Clean_dataframe()
+        self.clean_dataframe()
         # List of paths
         elements = ['Backgrounds', 'Bodies', 'Acessories', 'Hats']
 
@@ -185,7 +188,7 @@ class NFT_generator():
         print('loaded sucesfully')
         print(f'({self.total_nfts}) <- Available NFTS to generate')
 
-    def Find_indexes_with_item(self, item_name, item_color):
+    def find_indexes_with_item(self, item_name, item_color):
         # Find indexes of nfts with the called item
         df = pd.read_csv('Nft_information.csv', index_col=0)
         item_types = ['background', 'body', 'acessory', 'hat']
@@ -202,7 +205,7 @@ class NFT_generator():
                     return indexes
         return print('Item not found.')
 
-    def Clean_dataframe(self):
+    def clean_dataframe(self):
         # Clean the dataframe to new data
         columns = [
             'nft_name',
@@ -216,9 +219,9 @@ class NFT_generator():
             'hat_color'
         ]
         self.dataframe = pd.DataFrame(columns=columns)
-        self.Save_modifications()
+        self.save_modifications()
 
-    def Resize_img(self):
+    def resize_img(self):
         # The code need the none.png to make nfts without acessories and hats
         # Resize 'none.png' to same size of items to don't generate any errors on contenate imgs
         path, dirs, files = next(os.walk("items\\Backgrounds"))
@@ -230,14 +233,14 @@ class NFT_generator():
         resized_img.save('none.png', 'PNG')
         print('resized the none.png...')
 
-    def Add_rarity(self, item_name, item_color):
+    def add_rarity(self, item_name, item_color):
         # Add rarity to nfts
         # Load DataFrame
         self.df1 = pd.read_csv('Nft_information.csv', index_col=0)
         self.df1.reset_index(inplace=True, drop=True)
 
         # Get indexes with the item
-        self.indexes = self.Find_indexes_with_item(item_name, item_color)
+        self.indexes = self.find_indexes_with_item(item_name, item_color)
 
         if self.indexes:
             # Random remove nft with the item
@@ -266,7 +269,7 @@ class NFT_generator():
                 # Remove into dataframe
                 self.df1.drop(index=self.choice, axis=0, inplace=True)
                 self.dataframe = self.df1
-                self.Save_modifications()
+                self.save_modifications()
 
                 # Remove the file
                 if os.path.exists(f'done\\{self.nft_name}'):
@@ -276,7 +279,7 @@ class NFT_generator():
             print(self.indexes)
             return print("Item not found")
 
-    def Show_itens_rarity(self):
+    def show_itens_rarity(self):
         # Print the items and it rarities
         elements = ['Backgrounds', 'Bodies', 'Acessories', 'Hats']
         
@@ -300,11 +303,11 @@ class NFT_generator():
                     print(f"[{self.percentage:.2f}%] {self.item_name} - {self.item_color}")
                     print('----------------------------------------')
 
-    def Save_modifications(self):
+    def save_modifications(self):
         # Save modifications into dataframe
         self.dataframe.to_csv('Nft_Information.csv', mode='w')
 
-    def Run(self):
+    def run(self):
         # Run
         self.counter_background = 0
 
@@ -377,7 +380,7 @@ class NFT_generator():
                         self.df2 = pd.DataFrame(data=self.nft_info)
                         self.dataframe = pd.concat([self.df1, self.df2])
                         self.dataframe.reset_index(inplace=True, drop=True)
-                        self.Save_modifications()
+                        self.save_modifications()
                         # Save the img
                         self.im_final.save(f'done\\nft{self.counter}.png')
 

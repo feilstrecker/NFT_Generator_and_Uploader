@@ -1,1 +1,241 @@
 ,nft_name,background,body,acessory,hat,background_color,body_color,acessory_color,hat_color
+0,nft1.png,Background,Body,None,None,Blue,Black,None,None
+1,nft2.png,Background,Body,None,Durag,Blue,Black,None,Black
+2,nft3.png,Background,Body,Scar,None,Blue,Black,Black,None
+3,nft4.png,Background,Body,Scar,Durag,Blue,Black,Black,Black
+4,nft5.png,Background,Body,Tattoo,None,Blue,Black,Dollar Sign,None
+5,nft6.png,Background,Body,Tattoo,Durag,Blue,Black,Dollar Sign,Black
+6,nft7.png,Background,Body,Tie,None,Blue,Black,Black,None
+7,nft8.png,Background,Body,Tie,Durag,Blue,Black,Black,Black
+8,nft9.png,Background,Body,None,None,Blue,Blue,None,None
+9,nft10.png,Background,Body,None,Durag,Blue,Blue,None,Black
+10,nft11.png,Background,Body,Scar,None,Blue,Blue,Black,None
+11,nft12.png,Background,Body,Scar,Durag,Blue,Blue,Black,Black
+12,nft13.png,Background,Body,Tattoo,None,Blue,Blue,Dollar Sign,None
+13,nft14.png,Background,Body,Tattoo,Durag,Blue,Blue,Dollar Sign,Black
+14,nft15.png,Background,Body,Tie,None,Blue,Blue,Black,None
+15,nft16.png,Background,Body,Tie,Durag,Blue,Blue,Black,Black
+16,nft17.png,Background,Body,None,None,Blue,Cyan,None,None
+17,nft18.png,Background,Body,None,Durag,Blue,Cyan,None,Black
+18,nft19.png,Background,Body,Scar,None,Blue,Cyan,Black,None
+19,nft20.png,Background,Body,Scar,Durag,Blue,Cyan,Black,Black
+20,nft21.png,Background,Body,Tattoo,None,Blue,Cyan,Dollar Sign,None
+21,nft22.png,Background,Body,Tattoo,Durag,Blue,Cyan,Dollar Sign,Black
+22,nft23.png,Background,Body,Tie,None,Blue,Cyan,Black,None
+23,nft24.png,Background,Body,Tie,Durag,Blue,Cyan,Black,Black
+24,nft25.png,Background,Body,None,None,Blue,Green,None,None
+25,nft26.png,Background,Body,None,Durag,Blue,Green,None,Black
+26,nft27.png,Background,Body,Scar,None,Blue,Green,Black,None
+27,nft28.png,Background,Body,Scar,Durag,Blue,Green,Black,Black
+28,nft29.png,Background,Body,Tattoo,None,Blue,Green,Dollar Sign,None
+29,nft30.png,Background,Body,Tattoo,Durag,Blue,Green,Dollar Sign,Black
+30,nft31.png,Background,Body,Tie,None,Blue,Green,Black,None
+31,nft32.png,Background,Body,Tie,Durag,Blue,Green,Black,Black
+32,nft33.png,Background,Body,None,None,Blue,Purple,None,None
+33,nft34.png,Background,Body,None,Durag,Blue,Purple,None,Black
+34,nft35.png,Background,Body,Scar,None,Blue,Purple,Black,None
+35,nft36.png,Background,Body,Scar,Durag,Blue,Purple,Black,Black
+36,nft37.png,Background,Body,Tattoo,None,Blue,Purple,Dollar Sign,None
+37,nft38.png,Background,Body,Tattoo,Durag,Blue,Purple,Dollar Sign,Black
+38,nft39.png,Background,Body,Tie,None,Blue,Purple,Black,None
+39,nft40.png,Background,Body,Tie,Durag,Blue,Purple,Black,Black
+40,nft41.png,Background,Body,None,None,Blue,Red,None,None
+41,nft42.png,Background,Body,None,Durag,Blue,Red,None,Black
+42,nft43.png,Background,Body,Scar,None,Blue,Red,Black,None
+43,nft44.png,Background,Body,Scar,Durag,Blue,Red,Black,Black
+44,nft45.png,Background,Body,Tattoo,None,Blue,Red,Dollar Sign,None
+45,nft46.png,Background,Body,Tattoo,Durag,Blue,Red,Dollar Sign,Black
+46,nft47.png,Background,Body,Tie,None,Blue,Red,Black,None
+47,nft48.png,Background,Body,Tie,Durag,Blue,Red,Black,Black
+48,nft49.png,Background,Body,None,None,Green,Black,None,None
+49,nft50.png,Background,Body,None,Durag,Green,Black,None,Black
+50,nft51.png,Background,Body,Scar,None,Green,Black,Black,None
+51,nft52.png,Background,Body,Scar,Durag,Green,Black,Black,Black
+52,nft53.png,Background,Body,Tattoo,None,Green,Black,Dollar Sign,None
+53,nft54.png,Background,Body,Tattoo,Durag,Green,Black,Dollar Sign,Black
+54,nft55.png,Background,Body,Tie,None,Green,Black,Black,None
+55,nft56.png,Background,Body,Tie,Durag,Green,Black,Black,Black
+56,nft57.png,Background,Body,None,None,Green,Blue,None,None
+57,nft58.png,Background,Body,None,Durag,Green,Blue,None,Black
+58,nft59.png,Background,Body,Scar,None,Green,Blue,Black,None
+59,nft60.png,Background,Body,Scar,Durag,Green,Blue,Black,Black
+60,nft61.png,Background,Body,Tattoo,None,Green,Blue,Dollar Sign,None
+61,nft62.png,Background,Body,Tattoo,Durag,Green,Blue,Dollar Sign,Black
+62,nft63.png,Background,Body,Tie,None,Green,Blue,Black,None
+63,nft64.png,Background,Body,Tie,Durag,Green,Blue,Black,Black
+64,nft65.png,Background,Body,None,None,Green,Cyan,None,None
+65,nft66.png,Background,Body,None,Durag,Green,Cyan,None,Black
+66,nft67.png,Background,Body,Scar,None,Green,Cyan,Black,None
+67,nft68.png,Background,Body,Scar,Durag,Green,Cyan,Black,Black
+68,nft69.png,Background,Body,Tattoo,None,Green,Cyan,Dollar Sign,None
+69,nft70.png,Background,Body,Tattoo,Durag,Green,Cyan,Dollar Sign,Black
+70,nft71.png,Background,Body,Tie,None,Green,Cyan,Black,None
+71,nft72.png,Background,Body,Tie,Durag,Green,Cyan,Black,Black
+72,nft73.png,Background,Body,None,None,Green,Green,None,None
+73,nft74.png,Background,Body,None,Durag,Green,Green,None,Black
+74,nft75.png,Background,Body,Scar,None,Green,Green,Black,None
+75,nft76.png,Background,Body,Scar,Durag,Green,Green,Black,Black
+76,nft77.png,Background,Body,Tattoo,None,Green,Green,Dollar Sign,None
+77,nft78.png,Background,Body,Tattoo,Durag,Green,Green,Dollar Sign,Black
+78,nft79.png,Background,Body,Tie,None,Green,Green,Black,None
+79,nft80.png,Background,Body,Tie,Durag,Green,Green,Black,Black
+80,nft81.png,Background,Body,None,None,Green,Purple,None,None
+81,nft82.png,Background,Body,None,Durag,Green,Purple,None,Black
+82,nft83.png,Background,Body,Scar,None,Green,Purple,Black,None
+83,nft84.png,Background,Body,Scar,Durag,Green,Purple,Black,Black
+84,nft85.png,Background,Body,Tattoo,None,Green,Purple,Dollar Sign,None
+85,nft86.png,Background,Body,Tattoo,Durag,Green,Purple,Dollar Sign,Black
+86,nft87.png,Background,Body,Tie,None,Green,Purple,Black,None
+87,nft88.png,Background,Body,Tie,Durag,Green,Purple,Black,Black
+88,nft89.png,Background,Body,None,None,Green,Red,None,None
+89,nft90.png,Background,Body,None,Durag,Green,Red,None,Black
+90,nft91.png,Background,Body,Scar,None,Green,Red,Black,None
+91,nft92.png,Background,Body,Scar,Durag,Green,Red,Black,Black
+92,nft93.png,Background,Body,Tattoo,None,Green,Red,Dollar Sign,None
+93,nft94.png,Background,Body,Tattoo,Durag,Green,Red,Dollar Sign,Black
+94,nft95.png,Background,Body,Tie,None,Green,Red,Black,None
+95,nft96.png,Background,Body,Tie,Durag,Green,Red,Black,Black
+96,nft97.png,Background,Body,None,None,Grey,Black,None,None
+97,nft98.png,Background,Body,None,Durag,Grey,Black,None,Black
+98,nft99.png,Background,Body,Scar,None,Grey,Black,Black,None
+99,nft100.png,Background,Body,Scar,Durag,Grey,Black,Black,Black
+100,nft101.png,Background,Body,Tattoo,None,Grey,Black,Dollar Sign,None
+101,nft102.png,Background,Body,Tattoo,Durag,Grey,Black,Dollar Sign,Black
+102,nft103.png,Background,Body,Tie,None,Grey,Black,Black,None
+103,nft104.png,Background,Body,Tie,Durag,Grey,Black,Black,Black
+104,nft105.png,Background,Body,None,None,Grey,Blue,None,None
+105,nft106.png,Background,Body,None,Durag,Grey,Blue,None,Black
+106,nft107.png,Background,Body,Scar,None,Grey,Blue,Black,None
+107,nft108.png,Background,Body,Scar,Durag,Grey,Blue,Black,Black
+108,nft109.png,Background,Body,Tattoo,None,Grey,Blue,Dollar Sign,None
+109,nft110.png,Background,Body,Tattoo,Durag,Grey,Blue,Dollar Sign,Black
+110,nft111.png,Background,Body,Tie,None,Grey,Blue,Black,None
+111,nft112.png,Background,Body,Tie,Durag,Grey,Blue,Black,Black
+112,nft113.png,Background,Body,None,None,Grey,Cyan,None,None
+113,nft114.png,Background,Body,None,Durag,Grey,Cyan,None,Black
+114,nft115.png,Background,Body,Scar,None,Grey,Cyan,Black,None
+115,nft116.png,Background,Body,Scar,Durag,Grey,Cyan,Black,Black
+116,nft117.png,Background,Body,Tattoo,None,Grey,Cyan,Dollar Sign,None
+117,nft118.png,Background,Body,Tattoo,Durag,Grey,Cyan,Dollar Sign,Black
+118,nft119.png,Background,Body,Tie,None,Grey,Cyan,Black,None
+119,nft120.png,Background,Body,Tie,Durag,Grey,Cyan,Black,Black
+120,nft121.png,Background,Body,None,None,Grey,Green,None,None
+121,nft122.png,Background,Body,None,Durag,Grey,Green,None,Black
+122,nft123.png,Background,Body,Scar,None,Grey,Green,Black,None
+123,nft124.png,Background,Body,Scar,Durag,Grey,Green,Black,Black
+124,nft125.png,Background,Body,Tattoo,None,Grey,Green,Dollar Sign,None
+125,nft126.png,Background,Body,Tattoo,Durag,Grey,Green,Dollar Sign,Black
+126,nft127.png,Background,Body,Tie,None,Grey,Green,Black,None
+127,nft128.png,Background,Body,Tie,Durag,Grey,Green,Black,Black
+128,nft129.png,Background,Body,None,None,Grey,Purple,None,None
+129,nft130.png,Background,Body,None,Durag,Grey,Purple,None,Black
+130,nft131.png,Background,Body,Scar,None,Grey,Purple,Black,None
+131,nft132.png,Background,Body,Scar,Durag,Grey,Purple,Black,Black
+132,nft133.png,Background,Body,Tattoo,None,Grey,Purple,Dollar Sign,None
+133,nft134.png,Background,Body,Tattoo,Durag,Grey,Purple,Dollar Sign,Black
+134,nft135.png,Background,Body,Tie,None,Grey,Purple,Black,None
+135,nft136.png,Background,Body,Tie,Durag,Grey,Purple,Black,Black
+136,nft137.png,Background,Body,None,None,Grey,Red,None,None
+137,nft138.png,Background,Body,None,Durag,Grey,Red,None,Black
+138,nft139.png,Background,Body,Scar,None,Grey,Red,Black,None
+139,nft140.png,Background,Body,Scar,Durag,Grey,Red,Black,Black
+140,nft141.png,Background,Body,Tattoo,None,Grey,Red,Dollar Sign,None
+141,nft142.png,Background,Body,Tattoo,Durag,Grey,Red,Dollar Sign,Black
+142,nft143.png,Background,Body,Tie,None,Grey,Red,Black,None
+143,nft144.png,Background,Body,Tie,Durag,Grey,Red,Black,Black
+144,nft145.png,Background,Body,None,None,Orange,Black,None,None
+145,nft146.png,Background,Body,None,Durag,Orange,Black,None,Black
+146,nft147.png,Background,Body,Scar,None,Orange,Black,Black,None
+147,nft148.png,Background,Body,Scar,Durag,Orange,Black,Black,Black
+148,nft149.png,Background,Body,Tattoo,None,Orange,Black,Dollar Sign,None
+149,nft150.png,Background,Body,Tattoo,Durag,Orange,Black,Dollar Sign,Black
+150,nft151.png,Background,Body,Tie,None,Orange,Black,Black,None
+151,nft152.png,Background,Body,Tie,Durag,Orange,Black,Black,Black
+152,nft153.png,Background,Body,None,None,Orange,Blue,None,None
+153,nft154.png,Background,Body,None,Durag,Orange,Blue,None,Black
+154,nft155.png,Background,Body,Scar,None,Orange,Blue,Black,None
+155,nft156.png,Background,Body,Scar,Durag,Orange,Blue,Black,Black
+156,nft157.png,Background,Body,Tattoo,None,Orange,Blue,Dollar Sign,None
+157,nft158.png,Background,Body,Tattoo,Durag,Orange,Blue,Dollar Sign,Black
+158,nft159.png,Background,Body,Tie,None,Orange,Blue,Black,None
+159,nft160.png,Background,Body,Tie,Durag,Orange,Blue,Black,Black
+160,nft161.png,Background,Body,None,None,Orange,Cyan,None,None
+161,nft162.png,Background,Body,None,Durag,Orange,Cyan,None,Black
+162,nft163.png,Background,Body,Scar,None,Orange,Cyan,Black,None
+163,nft164.png,Background,Body,Scar,Durag,Orange,Cyan,Black,Black
+164,nft165.png,Background,Body,Tattoo,None,Orange,Cyan,Dollar Sign,None
+165,nft166.png,Background,Body,Tattoo,Durag,Orange,Cyan,Dollar Sign,Black
+166,nft167.png,Background,Body,Tie,None,Orange,Cyan,Black,None
+167,nft168.png,Background,Body,Tie,Durag,Orange,Cyan,Black,Black
+168,nft169.png,Background,Body,None,None,Orange,Green,None,None
+169,nft170.png,Background,Body,None,Durag,Orange,Green,None,Black
+170,nft171.png,Background,Body,Scar,None,Orange,Green,Black,None
+171,nft172.png,Background,Body,Scar,Durag,Orange,Green,Black,Black
+172,nft173.png,Background,Body,Tattoo,None,Orange,Green,Dollar Sign,None
+173,nft174.png,Background,Body,Tattoo,Durag,Orange,Green,Dollar Sign,Black
+174,nft175.png,Background,Body,Tie,None,Orange,Green,Black,None
+175,nft176.png,Background,Body,Tie,Durag,Orange,Green,Black,Black
+176,nft177.png,Background,Body,None,None,Orange,Purple,None,None
+177,nft178.png,Background,Body,None,Durag,Orange,Purple,None,Black
+178,nft179.png,Background,Body,Scar,None,Orange,Purple,Black,None
+179,nft180.png,Background,Body,Scar,Durag,Orange,Purple,Black,Black
+180,nft181.png,Background,Body,Tattoo,None,Orange,Purple,Dollar Sign,None
+181,nft182.png,Background,Body,Tattoo,Durag,Orange,Purple,Dollar Sign,Black
+182,nft183.png,Background,Body,Tie,None,Orange,Purple,Black,None
+183,nft184.png,Background,Body,Tie,Durag,Orange,Purple,Black,Black
+184,nft185.png,Background,Body,None,None,Orange,Red,None,None
+185,nft186.png,Background,Body,None,Durag,Orange,Red,None,Black
+186,nft187.png,Background,Body,Scar,None,Orange,Red,Black,None
+187,nft188.png,Background,Body,Scar,Durag,Orange,Red,Black,Black
+188,nft189.png,Background,Body,Tattoo,None,Orange,Red,Dollar Sign,None
+189,nft190.png,Background,Body,Tattoo,Durag,Orange,Red,Dollar Sign,Black
+190,nft191.png,Background,Body,Tie,None,Orange,Red,Black,None
+191,nft192.png,Background,Body,Tie,Durag,Orange,Red,Black,Black
+192,nft193.png,Background,Body,None,None,Pink,Black,None,None
+193,nft194.png,Background,Body,None,Durag,Pink,Black,None,Black
+194,nft195.png,Background,Body,Scar,None,Pink,Black,Black,None
+195,nft196.png,Background,Body,Scar,Durag,Pink,Black,Black,Black
+196,nft197.png,Background,Body,Tattoo,None,Pink,Black,Dollar Sign,None
+197,nft198.png,Background,Body,Tattoo,Durag,Pink,Black,Dollar Sign,Black
+198,nft199.png,Background,Body,Tie,None,Pink,Black,Black,None
+199,nft200.png,Background,Body,Tie,Durag,Pink,Black,Black,Black
+200,nft201.png,Background,Body,None,None,Pink,Blue,None,None
+201,nft202.png,Background,Body,None,Durag,Pink,Blue,None,Black
+202,nft203.png,Background,Body,Scar,None,Pink,Blue,Black,None
+203,nft204.png,Background,Body,Scar,Durag,Pink,Blue,Black,Black
+204,nft205.png,Background,Body,Tattoo,None,Pink,Blue,Dollar Sign,None
+205,nft206.png,Background,Body,Tattoo,Durag,Pink,Blue,Dollar Sign,Black
+206,nft207.png,Background,Body,Tie,None,Pink,Blue,Black,None
+207,nft208.png,Background,Body,Tie,Durag,Pink,Blue,Black,Black
+208,nft209.png,Background,Body,None,None,Pink,Cyan,None,None
+209,nft210.png,Background,Body,None,Durag,Pink,Cyan,None,Black
+210,nft211.png,Background,Body,Scar,None,Pink,Cyan,Black,None
+211,nft212.png,Background,Body,Scar,Durag,Pink,Cyan,Black,Black
+212,nft213.png,Background,Body,Tattoo,None,Pink,Cyan,Dollar Sign,None
+213,nft214.png,Background,Body,Tattoo,Durag,Pink,Cyan,Dollar Sign,Black
+214,nft215.png,Background,Body,Tie,None,Pink,Cyan,Black,None
+215,nft216.png,Background,Body,Tie,Durag,Pink,Cyan,Black,Black
+216,nft217.png,Background,Body,None,None,Pink,Green,None,None
+217,nft218.png,Background,Body,None,Durag,Pink,Green,None,Black
+218,nft219.png,Background,Body,Scar,None,Pink,Green,Black,None
+219,nft220.png,Background,Body,Scar,Durag,Pink,Green,Black,Black
+220,nft221.png,Background,Body,Tattoo,None,Pink,Green,Dollar Sign,None
+221,nft222.png,Background,Body,Tattoo,Durag,Pink,Green,Dollar Sign,Black
+222,nft223.png,Background,Body,Tie,None,Pink,Green,Black,None
+223,nft224.png,Background,Body,Tie,Durag,Pink,Green,Black,Black
+224,nft225.png,Background,Body,None,None,Pink,Purple,None,None
+225,nft226.png,Background,Body,None,Durag,Pink,Purple,None,Black
+226,nft227.png,Background,Body,Scar,None,Pink,Purple,Black,None
+227,nft228.png,Background,Body,Scar,Durag,Pink,Purple,Black,Black
+228,nft229.png,Background,Body,Tattoo,None,Pink,Purple,Dollar Sign,None
+229,nft230.png,Background,Body,Tattoo,Durag,Pink,Purple,Dollar Sign,Black
+230,nft231.png,Background,Body,Tie,None,Pink,Purple,Black,None
+231,nft232.png,Background,Body,Tie,Durag,Pink,Purple,Black,Black
+232,nft233.png,Background,Body,None,None,Pink,Red,None,None
+233,nft234.png,Background,Body,None,Durag,Pink,Red,None,Black
+234,nft235.png,Background,Body,Scar,None,Pink,Red,Black,None
+235,nft236.png,Background,Body,Scar,Durag,Pink,Red,Black,Black
+236,nft237.png,Background,Body,Tattoo,None,Pink,Red,Dollar Sign,None
+237,nft238.png,Background,Body,Tattoo,Durag,Pink,Red,Dollar Sign,Black
+238,nft239.png,Background,Body,Tie,None,Pink,Red,Black,None
+239,nft240.png,Background,Body,Tie,Durag,Pink,Red,Black,Black

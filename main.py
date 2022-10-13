@@ -5,16 +5,27 @@ import pandas as pd
 from NFT_Generator import NFT_generator
 from NFT_Uploader import NFT_Uploader
 
-def Gui():
+def gui():
+    os.system('color a')
+    try:
+        os.mkdir('done')
+        os.mkdir('items')
+        os.mkdir('items\\Backgrounds')
+        os.mkdir('items\\Bodies')
+        os.mkdir('items\\Hats')
+        os.mkdir('items\\Acessories')
+    except Exception:
+        pass
     # Menu
     decision = ''
     while decision != 'exit':
         decision = input(
-            "--- type 'exit' to exit ---\n"
-            '1 - nft generator ->\n'
-            '2 - nft uploader ->\n'
-            '3 - nft rarity ->\n'
-            '4 - show nfts rarity ->\n'
+            "by: @leodopython\n"
+            "<--- type 'exit' to exit --->\n"
+            '1 - GENERATOR\n'
+            '2 - UPLOADER\n'
+            '3 - CHANGE RARITY\n'
+            '4 - SHOW RARITY\n> '
             )
         
         # Generate nfts
@@ -22,10 +33,10 @@ def Gui():
             os.system('cls')
             p1 = NFT_generator()
             print("<------ Option: Generate Nfts ------>\n")
-            p1.Load()
-            decision = input('Are you sure? (Y/N)')
+            p1.load()
+            decision = input('Are you sure? (Y/n): ')
             if decision == 'Y' or 'y':
-                p1.Run()
+                p1.run()
             os.system('cls')
 
         # Upload nfts
@@ -46,8 +57,8 @@ def Gui():
             finish_number = len(dataframe['nft_name'].to_list())
 
             # Auto open chrome and connect it into selenium
-            p1.Open_chrome()
-            p1.Connect_chrome()
+            p1.open_chrome()
+            p1.connect_chrome()
             print('(log in your wallet before)')
             # Get the collection name
             collection_name = input('collection name: ')
@@ -63,7 +74,7 @@ def Gui():
                 # Del to don't repeat the same nft
                 del filenames[index]
                 # Run
-                p1.Run(choice, f'{nft_name} #{i}', nft_description, collection_name) 
+                p1.run(choice, f'{nft_name} #{i}', nft_description, collection_name) 
 
         # Rarity nfts
         elif decision == '3':
@@ -71,12 +82,12 @@ def Gui():
             p1 = NFT_generator()
             print("<------ Option: Rarity Nfts ------>\n")
             # Change the item rarity with it name and it color
-            p1.Add_rarity(input('Item name: '), input('Item color: '))
+            p1.add_rarity(input('Item name: '), input('Item color: '))
 
         # Print rarity of nfts
         elif decision == '4':
             os.system('cls')
             p1 = NFT_generator()
-            p1.Show_itens_rarity()
+            p1.show_itens_rarity()
             
-Gui()
+gui()
