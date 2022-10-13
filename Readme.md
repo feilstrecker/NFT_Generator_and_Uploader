@@ -38,4 +38,4 @@ and so, the rarity of that item will increase.
 content about this code:
 https://youtu.be/hXEJH6G_hQ8
 
-contact me on twitter: @leozinker
+contact me on ig: @leodopython
