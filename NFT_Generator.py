@@ -294,7 +294,7 @@ class NFT_generator():
                 self.item_color = file[1].replace('_', ' ')
 
                 # Find indexes with it
-                item_indexes = self.Find_indexes_with_item(self.item_name, self.item_color)
+                item_indexes = self.find_indexes_with_item(self.item_name, self.item_color)
                 if item_indexes and self.total_nfts > 0:
 
                     # Print it percentage
